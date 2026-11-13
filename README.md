@@ -22,46 +22,56 @@ It was built for a real athlete and is used at the gym every training day: 24 re
 programs of 13 weeks with deloads and supersets, and an offline-first design that never loses a set — even with no
 signal in the gym's basement.
 
+**At a glance:** 24 releases · 300+ exercises animated in 2D/3D · 506 tests · offline-first · EN/PT per account
+
 > The live demo runs with a **fictitious athlete** (Rafael) in week 4 of a 13-week block, generated in your browser with
 > dates that always move with today's calendar. No account, no server — nothing leaves your browser.
 
 ## What it does
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/images/01-inicio.png" width="200"><br>**Today's workout & muscles** | <img src="docs/images/03-treino.png" width="200"><br>**Live workout, set by set** | <img src="docs/images/04-exercicio-3d.png" width="200"><br>**Every exercise in 3D** | <img src="docs/images/02-treinos.png" width="200"><br>**The program, week by week** |
-| <img src="docs/images/05-progresso.png" width="200"><br>**Calendar & adherence** | <img src="docs/images/06-corpo.png" width="200"><br>**Body composition** | <img src="docs/images/07-claude.png" width="200"><br>**Analyze with AI** | <img src="docs/images/08-ajustes.png" width="200"><br>**Accounts & settings** |
+<p align="center"><img src="docs/images/features-1-en.png" alt="" width="100%"></p>
+<p align="center"><img src="docs/images/features-2-en.png" alt="" width="100%"></p>
 
-<p align="center"><img src="docs/images/demo.gif" width="300" alt="Pulse: start today's workout, complete sets, a personal record, progress and body"><br>
-<i>Start today's workout, tick the sets — a personal record pops up on the spot — then progress and body.</i></p>
+<p align="center"><img src="docs/images/demo.gif" width="300" alt=""><br><i>Start today's workout, tick the sets — a personal record pops up on the spot — then progress and body.</i></p>
 
-- **Training** — the week's prescription (sets, reps, RIR, rest, deload, supersets A1/A2, warm-up, cardio targets,
-  mobility), a rest timer, "same as last time", plate math for the gym's plates, list mode or one-big-set mode, exercise
-  swaps with suggested substitutes, instant personal records (estimated 1RM).
-- **A notification that coaches** — while the phone is locked, the live workout shows the rest ring, the current exercise
-  and "set done" / "+15 s" buttons.
-- **The exercise library** — 300+ exercises (strength, mobility, cardio, Pilates, functional) with how-to text in English
-  and Portuguese and **hand-made animations**: a 2D articulated figure and a 3D view generated from the same motion data.
-- **Progress & body** — calendar (done / missed / skipped with reason), weekly adherence, real volume per muscle against
-  targets, block-vs-block comparison, load history, weight with a 7-day average, measurements on a body map, body-fat
-  estimate (Navy / RFM), lean mass, FFMI, progress photos.
-- **AI where it adds judgment** — a structured training report goes to Claude; an **MCP connector** lets the user's own
-  Claude read the context and publish the next program after validation and the user's approval. No paid API.
+**In detail**
+- **Training** — sets, reps, RIR, rest, deloads, supersets (A1/A2), warm-ups, cardio and mobility from the week's prescription;
+  rest timer, "same as last time", plate math, exercise swaps, instant records (estimated 1RM), a live notification.
+- **Library** — 300+ exercises with how-to text in English and Portuguese and hand-made 2D/3D animations.
+- **Progress & body** — calendar with reasons for skipped days, adherence, volume per muscle vs. targets, block comparison,
+  load history, weight average, measurements, body fat (Navy / RFM), lean mass, FFMI, progress photos.
+- **Accounts** — private per-person data, passkeys, sign-in with a 6-letter code, a 3-day trash with restore.
 
 ## How it works
 
-<p align="center"><img src="docs/images/architecture-en.svg" alt="Architecture diagram" width="100%"></p>
+<p align="center"><img src="docs/images/architecture-en.png" alt="" width="100%"></p>
 
-The unusual part: **the exercise animations are generated, not filmed.** A small motion engine
-([`src/lib/motion/`](src/lib/motion)) describes each movement family (bench, barbell, cable, machine, unilateral,
-alternating) with parameters and key poses, solves the limbs with two-bone inverse kinematics and draws a 2D figure with
-the target muscles highlighted. The 3D view ([`src/lib/motion3d/`](src/lib/motion3d), three.js, loaded on demand) converts
-the same frames into bone directions and skins a smooth body whose muscles are painted by a shader. One table maps the
-300+ exercises to their motion; a test makes sure no exercise is left without one.
+Pulse is an **offline-first React app**: everything is written to the device first and synced later, because gyms rarely have
+signal. Two Workers sit behind it — a thin one at the new address that proxies `/api/*`, and the original one that owns
+accounts, sync, photos, reminders, the MCP server and the bridge to the nutrition app.
 
-Data is **offline-first**: every person has their own IndexedDB; a Dexie middleware stamps every write and leaves a
-tombstone on delete, and the Worker syncs batches of `{t, k, u, v}` records (highest timestamp wins) into D1, with a
-3-day trash that can restore a deleted workout with all its sets.
+**On the device** — React 19 + TypeScript + Vite. Each person has their own IndexedDB (Dexie). A middleware stamps every write with a timestamp and a dirty flag and turns deletes into tombstones, so the sync layer only ships what changed. Pure, tested logic lives in `src/lib` (calendar, prescription, plates, analytics, body composition, the plan schema).
+
+**The motion engine** — `src/lib/motion` describes movement families with parameters and key poses and solves limbs with two-bone inverse kinematics; `src/lib/motion3d` turns the same frames into bone directions for a smooth three.js body whose muscles are painted by a shader. One table maps every exercise to its motion, enforced by a test.
+
+**At the edge** — `/api/sync` accepts batches of `{t, k, u, v}` (table, key, timestamp, value) — highest timestamp wins — and copies anything deleted into a 3-day trash first. Auth issues hashed session tokens in strict cookies; passwords arrive already derived on the device (PBKDF2, 600k iterations) to fit the free plan's CPU budget.
+
+**The AI loop** — A structured report (`log@1`) or the MCP tool `contexto_de_treino` gives Claude loads, RIR, pain, skipped days and body data; `publicar_plano` validates the next block with the app's own Zod schema and shows what changes before anything is published.
+
+**Integrations** — Over a service binding, Pulse keeps one official body weight with the nutrition app (Mesa), answers its "did you train today?", sends cardio calories and a 21-day training schedule.
+
+### The flow
+
+<p align="center"><img src="docs/images/flow-en.png" alt="" width="100%"></p>
+
+### Design decisions
+
+| Decision | Why |
+|---|---|
+| **Offline first, sync later** | A set must never be lost to a bad signal. |
+| **Animations from data, not video** | One consistent style, no licensing, 300+ exercises from a dozen movement families. |
+| **Heavy crypto on the device** | The free Workers plan allows ~10 ms of CPU; PBKDF2 at 600k iterations runs on the phone. |
+| **Copy-and-verify migrations** | Data never gets lost: old databases are copied and checked, never rewritten in place. |
 
 ## Security
 

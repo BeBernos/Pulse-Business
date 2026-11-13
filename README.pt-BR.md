@@ -23,46 +23,56 @@ Foi feito para um atleta de verdade e é usado na academia em todo dia de treino
 de 13 semanas com deload e supersets, e um desenho offline primeiro que nunca perde uma série — nem sem sinal no subsolo da
 academia.
 
+**Em números:** 24 versões · 300+ exercícios animados em 2D/3D · 506 testes · offline primeiro · PT/EN por conta
+
 > A demonstração ao vivo usa um **atleta fictício** (Rafael) na semana 4 de um bloco de 13, gerado no seu navegador com
 > datas que sempre acompanham o calendário de hoje. Sem conta, sem servidor — nada sai do seu navegador.
 
 ## O que faz
 
-| | | | |
-|:---:|:---:|:---:|:---:|
-| <img src="docs/images/01-inicio.png" width="200"><br>**Treino de hoje e músculos** | <img src="docs/images/03-treino.png" width="200"><br>**Treino ativo, série por série** | <img src="docs/images/04-exercicio-3d.png" width="200"><br>**Cada exercício em 3D** | <img src="docs/images/02-treinos.png" width="200"><br>**O programa, semana a semana** |
-| <img src="docs/images/05-progresso.png" width="200"><br>**Calendário e adesão** | <img src="docs/images/06-corpo.png" width="200"><br>**Composição corporal** | <img src="docs/images/07-claude.png" width="200"><br>**Analisar com IA** | <img src="docs/images/08-ajustes.png" width="200"><br>**Contas e ajustes** |
+<p align="center"><img src="docs/images/features-1-pt.png" alt="" width="100%"></p>
+<p align="center"><img src="docs/images/features-2-pt.png" alt="" width="100%"></p>
 
-<p align="center"><img src="docs/images/demo.gif" width="300" alt="Pulse: começar o treino de hoje, concluir séries, recorde, progresso e corpo"><br>
-<i>Começa o treino de hoje, marca as séries — o recorde aparece na hora — depois progresso e corpo.</i></p>
+<p align="center"><img src="docs/images/demo.gif" width="300" alt=""><br><i>Começa o treino de hoje, marca as séries — o recorde aparece na hora — depois progresso e corpo.</i></p>
 
-- **Treino** — a prescrição da semana (séries, repetições, RIR, descanso, deload, supersets A1/A2, aquecimento, metas de
-  cardio, mobilidade), cronômetro de descanso, "igual à última", conta de anilhas da academia, modo lista ou uma série
-  grande, troca de exercício com substitutos sugeridos, recorde na hora (1RM estimado).
-- **Uma notificação que treina junto** — com o celular travado, o treino ativo mostra o anel do descanso, o exercício da vez
-  e os botões "série feita" / "+15 s".
-- **A biblioteca** — mais de 300 exercícios (força, mobilidade, cardio, Pilates, funcional) com "como fazer" em português e
-  inglês e **animações feitas no próprio app**: um boneco 2D articulado e uma vista 3D gerada dos mesmos dados de movimento.
-- **Progresso e corpo** — calendário (feito / faltou / pulou com motivo), adesão semanal, volume real por músculo contra a
-  meta, comparação entre blocos, histórico de cargas, peso com média de 7 dias, medidas num mapa do corpo, % de gordura
-  estimado (Marinha / RFM), massa magra, FFMI, fotos de progresso.
-- **IA onde ela acrescenta julgamento** — um relatório estruturado do treino vai para o Claude; um **conector MCP** deixa o
-  Claude do próprio usuário ler o contexto e publicar o próximo programa depois da validação e da aprovação. Sem API paga.
+**Em detalhe**
+- **Treino** — séries, repetições, RIR, descanso, deload, supersets (A1/A2), aquecimento, cardio e mobilidade da prescrição da
+  semana; cronômetro, "igual à última", conta de anilhas, troca de exercício, recorde na hora (1RM estimado), notificação ao vivo.
+- **Biblioteca** — mais de 300 exercícios com "como fazer" em português e inglês e animações 2D/3D feitas no próprio app.
+- **Progresso e corpo** — calendário com o motivo dos dias pulados, adesão, volume por músculo contra a meta, comparação de
+  blocos, histórico de cargas, média do peso, medidas, % de gordura (Marinha / RFM), massa magra, FFMI, fotos.
+- **Contas** — dados privados por pessoa, passkeys, entrada com código de 6 letras, lixeira de 3 dias com restauração.
 
 ## Como funciona
 
-<p align="center"><img src="docs/images/architecture-pt.svg" alt="Diagrama da arquitetura" width="100%"></p>
+<p align="center"><img src="docs/images/architecture-pt.png" alt="" width="100%"></p>
 
-O diferente: **as animações dos exercícios são geradas, não filmadas.** Um pequeno motor de movimento
-([`src/lib/motion/`](src/lib/motion)) descreve cada família de movimento (banco, barra, cabo, máquina, unilateral,
-alternado) com parâmetros e poses-chave, resolve os membros com cinemática inversa de dois ossos e desenha um boneco 2D com
-os músculos-alvo em destaque. A vista 3D ([`src/lib/motion3d/`](src/lib/motion3d), three.js, carregado só quando abre)
-converte os mesmos quadros em direções de ossos e veste um corpo liso cujos músculos são pintados por shader. Uma tabela liga
-os 300+ exercícios ao seu movimento; um teste garante que nenhum fica sem.
+O Pulse é um **app React offline primeiro**: tudo é gravado primeiro no aparelho e sincronizado depois, porque academia
+raramente tem sinal. Atrás dele há dois Workers — um fino no endereço novo, que repassa `/api/*`, e o original, dono das contas,
+da sincronização, das fotos, dos lembretes, do servidor MCP e da ponte com o app de alimentação.
 
-Os dados são **offline primeiro**: cada pessoa tem o próprio IndexedDB; um middleware do Dexie carimba cada gravação e deixa
-lápide ao apagar, e o Worker sincroniza lotes de registros `{t, k, u, v}` (vence o carimbo maior) no D1, com uma lixeira de
-3 dias que devolve um treino apagado com todas as séries.
+**No aparelho** — React 19 + TypeScript + Vite. Cada pessoa tem o próprio IndexedDB (Dexie). Um middleware carimba cada gravação com a hora e uma marca de pendente e transforma apagar em lápide, então a sincronização só envia o que mudou. A lógica pura e testada fica em `src/lib` (calendário, prescrição, anilhas, análises, composição corporal, schema do plano).
+
+**O motor de movimento** — `src/lib/motion` descreve famílias de movimento com parâmetros e poses-chave e resolve os membros com cinemática inversa de dois ossos; `src/lib/motion3d` transforma os mesmos quadros em direções de ossos para um corpo liso em three.js, com os músculos pintados por shader. Uma tabela liga cada exercício ao seu movimento, garantida por teste.
+
+**Na borda** — `/api/sync` recebe lotes de `{t, k, u, v}` (tabela, chave, carimbo, valor) — vence o carimbo maior — e antes copia o que foi apagado para uma lixeira de 3 dias. O login emite tokens de sessão guardados como hash em cookies estritos; a senha chega já derivada no aparelho (PBKDF2, 600 mil rodadas) para caber no limite de CPU do plano grátis.
+
+**O ciclo com a IA** — Um relatório estruturado (`log@1`) ou a ferramenta MCP `contexto_de_treino` dá ao Claude cargas, RIR, dores, dias pulados e dados do corpo; `publicar_plano` valida o próximo bloco com o mesmo schema Zod do app e mostra o que muda antes de publicar qualquer coisa.
+
+**Integrações** — Por um service binding, o Pulse mantém um peso oficial único com o app de alimentação (Mesa), responde o "treinou hoje?", manda as calorias do cardio e uma agenda de treino de 21 dias.
+
+### O fluxo
+
+<p align="center"><img src="docs/images/flow-pt.png" alt="" width="100%"></p>
+
+### Decisões de projeto
+
+| Decisão | Por quê |
+|---|---|
+| **Offline primeiro, sincroniza depois** | Uma série nunca pode se perder por falta de sinal. |
+| **Animação a partir de dados, não de vídeo** | Um estilo só, sem licença, 300+ exercícios a partir de uma dúzia de famílias de movimento. |
+| **Criptografia pesada no aparelho** | O plano grátis dá ~10 ms de CPU; o PBKDF2 com 600 mil rodadas roda no celular. |
+| **Migração por cópia conferida** | Dados nunca se perdem: o banco antigo é copiado e conferido, nunca reescrito no lugar. |
 
 ## Segurança
 
