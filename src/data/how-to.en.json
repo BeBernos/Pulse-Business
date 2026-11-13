@@ -1,0 +1,1547 @@
+{
+ "Behind the Back Barbell Wrist Curl": [
+  "Standing, bar behind your body at hip height, palms facing back.",
+  "Only the wrist works: curl the bar up and back.",
+  "Arms still and straight; let the bar roll to your fingers on the way down."
+ ],
+ "Palms Up Barbell Wrist Curl (Over a Bench)": [
+  "Kneeling, forearms on the bench, wrists past the edge, palms up.",
+  "Bend only the wrist, lifting the bar.",
+  "Forearms glued to the bench; lower slowly into the stretch."
+ ],
+ "Sideways Standing Wrist Curl (Elbow 90°, Crossover Machine)": [
+  "Side-on to the pulley, elbow bent at 90° and tucked in.",
+  "Rotate/bend only the wrist against the cable.",
+  "The elbow doesn't move; return slowly."
+ ],
+ "Single Arm Dumbbell Reverse Wrist Curl (Overhand Grip)": [
+  "Forearm on your thigh or the bench, palm down, wrist off the edge.",
+  "Lift the back of your hand, raising the dumbbell with the wrist only.",
+  "Light load; lower slowly."
+ ],
+ "Single Arm Dumbbell Wrist Curl (Underhand Grip)": [
+  "Forearm on your thigh or the bench, palm up, wrist off the edge.",
+  "Curl the wrist, lifting the dumbbell.",
+  "Let the dumbbell roll to your fingers on the way down to stretch."
+ ],
+ "Single Arm Standing Cable Wrist Curl (Elbow 90°, Top Attachment)": [
+  "Facing the high cable, elbow at 90° tucked in.",
+  "Bend only the wrist against the resistance.",
+  "Forearm still; return slowly."
+ ],
+ "Single Arm Standing Reverse Cable Wrist Curl (Bottom Attachment)": [
+  "Low cable, overhand grip (palm down), elbow bent.",
+  "Lift the back of your hand, wrist only.",
+  "Light load; control the return."
+ ],
+ "Standing Wrist Curl (Crossover Machine)": [
+  "Standing at the crossover, cable bar in hands, arms still.",
+  "Bend only the wrists upward.",
+  "Elbows tucked; return slowly."
+ ],
+ "Alternating Incline Dumbbell Curl": [
+  "Leaning back on an incline bench (≈45°), arms hanging behind your body line.",
+  "Curl one dumbbell at a time, turning the palm up.",
+  "Elbow pointing at the floor and still; lower to full extension."
+ ],
+ "Alternating Standing Dumbbell Curl": [
+  "Standing, dumbbells at your sides, palms forward.",
+  "Curl one arm at a time up to the shoulder.",
+  "Elbows tucked; no torso swing."
+ ],
+ "Alternating Standing Dumbbell Twist Curl": [
+  "Standing, dumbbells at your sides with a neutral grip (palms in).",
+  "Curl alternating and turn the palm up on the way.",
+  "Elbow still; lower turning back."
+ ],
+ "Barbell Curl": [
+  "Standing, bar at shoulder width, palms forward.",
+  "Bend the elbows bringing the bar close to your chest.",
+  "Elbows tucked in, without leaning back."
+ ],
+ "Concentration Curl": [
+  "Seated, elbow braced on the inside of your thigh.",
+  "Curl the dumbbell to the shoulder, turning the palm up.",
+  "The arm stays on the thigh; lower to full extension."
+ ],
+ "High Pulley Curl": [
+  "Between the high pulleys, arms open at shoulder height, palms up.",
+  "Bend the elbows bringing your hands near your ears.",
+  "Elbows fixed up high; return straightening."
+ ],
+ "Incline Dumbbell Curl": [
+  "Leaning back on an incline bench (≈45°), arms hanging.",
+  "Curl both dumbbells together, palms up.",
+  "Elbows pointing at the floor; lower to a full stretch."
+ ],
+ "Incline Dumbbell Twist Curl": [
+  "Incline bench, arms hanging with a neutral grip.",
+  "Curl turning the palm up.",
+  "Elbows still; lower turning back."
+ ],
+ "Inside Grip Rope Curl": [
+  "Low cable with rope, hands inside (near the knot).",
+  "Bend the elbows pulling the rope to your chest.",
+  "Elbows tucked; return slowly."
+ ],
+ "Machine Bicep Curl": [
+  "Seated, armpits and arms resting on the machine pad.",
+  "Bend the elbows pulling the handles.",
+  "Keep elbows on the pad; return until almost straight."
+ ],
+ "One Arm Dumbbell Preacher Curl": [
+  "Arm on the preacher bench, armpit against the top.",
+  "Curl the dumbbell to the shoulder.",
+  "Lower slowly until almost straight, without locking the elbow."
+ ],
+ "One Arm Scott Dumbbell Curl": [
+  "Arm on the preacher bench, armpit at the top of the pad.",
+  "Bend the elbow lifting the dumbbell.",
+  "Lower under control until almost straight."
+ ],
+ "Overhand Barbell Curl": [
+  "Standing, bar with overhand grip (palms back).",
+  "Bend the elbows lifting the bar.",
+  "Wrists firm and straight; elbows tucked."
+ ],
+ "Reverse Dumbbell Curl Twisted": [
+  "Standing, dumbbells with palms back.",
+  "Curl bending the elbows and rotate slightly at the top.",
+  "Elbows tucked; lower slowly."
+ ],
+ "Reverse Incline Bench Barbell Curl": [
+  "Chest-down on an incline bench, arms hanging holding the bar.",
+  "Bend the elbows lifting the bar.",
+  "Arms still, pointing at the floor."
+ ],
+ "Seated Alternating Twist Curl": [
+  "Seated, back supported, dumbbells with a neutral grip.",
+  "Curl alternating, turning the palm up.",
+  "No swinging; elbow still."
+ ],
+ "Seated Dumbbell Curl": [
+  "Seated, back supported, dumbbells at your sides.",
+  "Curl the dumbbells to your shoulders, palms up.",
+  "Elbows tucked; lower to full extension."
+ ],
+ "Seated Hammer Curls": [
+  "Seated, dumbbells with a neutral grip (like a hammer).",
+  "Curl without turning the wrist.",
+  "Elbows tucked; lower slowly."
+ ],
+ "Single Arm Scott Bench Hammer Curl": [
+  "Arm on the preacher bench, dumbbell in a neutral grip.",
+  "Curl without turning the wrist.",
+  "Lower under control until almost straight."
+ ],
+ "Squatting Bicep Cable Curl": [
+  "Crouched facing the low pulley, elbows resting on your thighs.",
+  "Bend the elbows pulling the bar to your face.",
+  "Elbows fixed on the thighs; return slowly."
+ ],
+ "Standing Cable Curl": [
+  "Standing facing the low pulley, bar in hands, palms up.",
+  "Bend the elbows until the bar reaches your chest.",
+  "Elbows tucked in; don't swing the torso."
+ ],
+ "Standing Dumbbell Curls": [
+  "Standing, dumbbells at your sides, palms forward.",
+  "Curl both together to the shoulders.",
+  "Elbows still; lower to full extension."
+ ],
+ "Standing Dumbbell Reverse Curl": [
+  "Standing, dumbbells with palms back.",
+  "Curl bending the elbows, wrists straight.",
+  "Lighter load than a regular curl."
+ ],
+ "Standing Dumbbell Twist Curl": [
+  "Standing, dumbbells with a neutral grip.",
+  "Curl turning the palm up.",
+  "Lower turning back; elbows tucked."
+ ],
+ "Standing Hammer Dumbbell Curl": [
+  "Standing, dumbbells with a neutral grip (palms in).",
+  "Curl without rotating, like a hammer.",
+  "Elbows tucked; no swinging."
+ ],
+ "Standing One Arm Cable Curl": [
+  "Standing facing the low pulley, handle in one hand.",
+  "Bend the elbow up to the shoulder.",
+  "Elbow tucked; return slowly."
+ ],
+ "Standing One Arm No Handle Cable Curl": [
+  "Hold the low pulley cable (or the ball) directly.",
+  "Bend the elbow lifting your hand.",
+  "Elbow still; return straightening."
+ ],
+ "Standing Reverse Cable Curl": [
+  "Low pulley with a bar, overhand grip (palms back).",
+  "Bend the elbows lifting the bar.",
+  "Wrists straight; elbows tucked."
+ ],
+ "Standing Single Arm Dumbbell Hammer Curls (Incline Bench)": [
+  "Standing behind an incline bench, arm resting on the backrest.",
+  "Curl the dumbbell with a neutral grip.",
+  "Arm supported the whole time; lower slowly."
+ ],
+ "Zottman Curl": [
+  "Standing, dumbbells with palms forward.",
+  "Curl normally; at the top turn the palms down.",
+  "Lower slowly with palms down and turn them back at the bottom."
+ ],
+ "Ab Wheel Rollout": [
+  "Kneeling, hands on the ab wheel under your shoulders.",
+  "Roll forward lengthening your body, without sagging the lower back.",
+  "Come back pulling with your abs; go only as far as your lower back stays straight."
+ ],
+ "Abdominal Crunch (Machine Assisted)": [
+  "Seated in the machine, feet locked, arms on the pads.",
+  "Curl the torso forward, bringing ribs toward hips.",
+  "Short movement; the abs do the work, not the arms."
+ ],
+ "Alternating Diagonal Crunch": [
+  "Lying down, knees bent, hands behind your head.",
+  "Curl up and bring the shoulder toward the opposite knee.",
+  "Alternate sides; don't pull your neck with your hands."
+ ],
+ "Alternating Toe Touch Crunch": [
+  "Lying down, legs straight up.",
+  "Lift the torso and bring one hand to the opposite foot.",
+  "Alternate; lower back on the floor."
+ ],
+ "Bench Knee Tucks": [
+  "Seated on the end of the bench, hands braced behind, legs straight.",
+  "Bring the knees to your chest leaning the torso in.",
+  "Extend again without touching your feet to the floor."
+ ],
+ "Decline Crunch": [
+  "On the decline bench, feet locked, hands on chest or head.",
+  "Curl the torso up only until the shoulder blades leave the bench.",
+  "Lower slowly; don't pull your neck."
+ ],
+ "Decline Sit Ups": [
+  "On the decline bench, feet locked.",
+  "Raise the whole torso until almost seated.",
+  "Lower under control; no momentum."
+ ],
+ "Elbow Plank": [
+  "Forearms on the floor, elbows under shoulders, body straight.",
+  "Hold the position while breathing.",
+  "Squeeze glutes and abs; don't let the hips sag or rise."
+ ],
+ "Feet Raised Russian Twist": [
+  "Seated, torso leaning back, feet off the floor.",
+  "Rotate the torso moving the plate from one side of the hip to the other.",
+  "The shoulders do the turning; keep the chest open."
+ ],
+ "Floor Crunch": [
+  "Lying down, knees bent, feet on the floor, hands behind your head.",
+  "Curl the torso lifting the shoulder blades off the floor.",
+  "Lower back stays down; look at the ceiling, without pulling your neck."
+ ],
+ "Full Hanging Leg Raises": [
+  "Hanging from the bar, legs straight.",
+  "Raise the legs close to the bar, curling the hips.",
+  "Lower slowly, without swinging."
+ ],
+ "Half Crunch": [
+  "Lying down, knees bent, arms straight in front.",
+  "Come up just a little, until the shoulder blades leave the floor.",
+  "Short, controlled movement."
+ ],
+ "Hanging Leg Raises": [
+  "Hanging from the bar, legs straight.",
+  "Raise the legs to hip height (90°).",
+  "No swinging; lower slowly."
+ ],
+ "Incline Bench Reverse Crunch": [
+  "Lying on an incline bench, head at the top, hands holding the bench.",
+  "Bring the legs up and lift your hips off the bench.",
+  "Lower slowly, without letting your legs drop."
+ ],
+ "Incline Bench Reverse Crunches (Knees Bended)": [
+  "Lying on an incline bench, head at the top, knees bent.",
+  "Bring the knees to your chest lifting the hips off the bench.",
+  "Return under control."
+ ],
+ "Kneeling Pulley Row": [
+  "Kneeling facing the high pulley, rope behind your head.",
+  "Curl the torso down bringing elbows to knees.",
+  "Hips still; the spine does the bending."
+ ],
+ "Leg Raise": [
+  "Lying on your back, hands at your sides or under your hips.",
+  "Raise the straight legs to 90°.",
+  "Lower slowly without lifting your lower back off the floor."
+ ],
+ "Plank": [
+  "Supported on hands or forearms, body in a straight line.",
+  "Hold the position while breathing.",
+  "Glutes and abs tight; hips aligned."
+ ],
+ "Russian Twists": [
+  "Seated, knees bent, torso leaning back.",
+  "Rotate the shoulders moving your hands (or the plate) from side to side.",
+  "Long spine; the twist comes from the torso, not just the arms."
+ ],
+ "Sit Up with Legs Raised": [
+  "Lying down, legs up with knees bent.",
+  "Raise the torso toward your knees.",
+  "Lower slowly; don't pull your neck."
+ ],
+ "Back Extension": [
+  "On the Roman chair, hips on the pad, feet locked.",
+  "Lower the torso hinging at the hips and come up until in line with your legs.",
+  "Don't go past your body line at the top; straight spine."
+ ],
+ "Barbell Pullover": [
+  "Lying on the bench, bar above your chest with arms almost straight.",
+  "Take the bar behind your head in an arc, feeling the stretch.",
+  "Come back pulling with your back; elbows slightly bent and fixed."
+ ],
+ "Bent Over Arm Cable Pull": [
+  "Torso leaning forward, straight arms holding the cable in front.",
+  "Pull the straight arms in an arc down to your hips.",
+  "Elbows almost straight; shoulders away from your ears."
+ ],
+ "Bent Over Dumbbell Row": [
+  "Torso leaning forward with a straight back, dumbbells hanging.",
+  "Pull the dumbbells to your hips driving the elbows back.",
+  "Don't round your lower back; squeeze the shoulder blades at the top."
+ ],
+ "Bent Over Dumbbell Row (Standing and Both Handed)": [
+  "Standing, knees slightly bent, torso leaning and back straight.",
+  "Pull both dumbbells together to your waist.",
+  "Torso still; lower until arms are straight."
+ ],
+ "Bent Over Regular Grip Barbell Row": [
+  "Torso leaning (≈45°), back straight, bar with an overhand grip.",
+  "Pull the bar to your navel, elbows back.",
+  "No jerking with the torso; lower under control."
+ ],
+ "Bent Over Reverse Grip Barbell Row": [
+  "Torso leaning, back straight, bar with an underhand grip (palms forward).",
+  "Pull the bar to your navel, elbows tucked.",
+  "Torso still; lower until straight."
+ ],
+ "Bent Over Two Arm T-Bar Row": [
+  "Over the T-bar, knees bent, torso leaning and straight.",
+  "Pull the handle to your chest/abdomen.",
+  "Shoulder blades together at the top; don't round your lower back."
+ ],
+ "Cable Shrug (Straight Bar Attachment)": [
+  "Standing at the low pulley, straight bar in hands, arms straight.",
+  "Raise your shoulders toward your ears.",
+  "Don't bend your elbows or roll your shoulders."
+ ],
+ "Close Grip Front Lat Pulldown": [
+  "Seated at the pulldown, thighs locked, close grip.",
+  "Pull the bar to your upper chest, chest open.",
+  "Drive the elbows down and back; return straightening."
+ ],
+ "Crossover Machine Cable Row": [
+  "Standing between the pulleys, cables in front at chest height.",
+  "Pull your hands to your waist, elbows back.",
+  "Torso firm; squeeze your back at the end."
+ ],
+ "Dumbbell Incline Bench Two Arm Row": [
+  "Chest-down on an incline bench, dumbbells hanging.",
+  "Pull both dumbbells driving the elbows back.",
+  "Chest on the bench; shoulder blades together at the top."
+ ],
+ "Dumbbell Shrugs": [
+  "Standing, dumbbells at your sides.",
+  "Raise your shoulders toward your ears and hold 1 s.",
+  "Arms straight; don't roll your shoulders."
+ ],
+ "Front Barbell Shrugs": [
+  "Standing, bar in front of your thighs, arms straight.",
+  "Raise your shoulders toward your ears.",
+  "Lower slowly; don't bend your elbows."
+ ],
+ "Hammer Machine Lat Pulldown": [
+  "Seated in the machine, thighs locked, handles up high.",
+  "Pull the handles down to chest height.",
+  "Elbows down and back; return with a full stretch."
+ ],
+ "Incline Barbell Bench Pull": [
+  "Chest-down on an incline bench, bar hanging.",
+  "Pull the bar to the bench, elbows out/back.",
+  "Chest on the bench; lower until straight."
+ ],
+ "Kneeling Cable Pulldown": [
+  "Kneeling facing the high pulley, bar in hands.",
+  "Pull the bar to your chest, driving the elbows down.",
+  "Torso firm; return straightening the arms."
+ ],
+ "Lat Machine Pull-Down (Reverse Grip)": [
+  "Seated at the pulldown, underhand grip (palms toward you), hands shoulder-width.",
+  "Pull the bar to your upper chest.",
+  "Elbows tucked down; don't lean back."
+ ],
+ "Lever Seated Row Machine": [
+  "Seated, chest on the pad, handles in front.",
+  "Pull the handles to your waist.",
+  "Chest glued to the pad; squeeze the shoulder blades."
+ ],
+ "Narrow Bent Over Low Cable Row (Overhand Grip)": [
+  "Standing facing the low pulley, torso leaning, close overhand grip.",
+  "Pull to your waist, elbows back.",
+  "Straight back; torso still."
+ ],
+ "Narrow Grip Seated Row": [
+  "Seated at the low row, feet braced, triangle handle.",
+  "Pull to your navel, chest forward.",
+  "Don't rock the torso; return straightening the arms."
+ ],
+ "One Arm Dumbbell Row": [
+  "Knee and hand on one side braced on the bench, back straight.",
+  "Pull the dumbbell to your hip, elbow close to your body.",
+  "Don't twist the torso; lower until straight."
+ ],
+ "Parallel Grip Pull Up": [
+  "Hanging from the bar with a neutral grip (palms facing each other).",
+  "Pull up until your chin clears the bar.",
+  "Lower slowly to full extension; no swinging."
+ ],
+ "Reverse Barbell Shrug": [
+  "Standing, bar behind your body, arms straight.",
+  "Raise your shoulders toward your ears.",
+  "Lower slowly; don't bend your elbows."
+ ],
+ "Reverse Grip Lat Pulldown": [
+  "Seated at the pulldown, underhand grip at shoulder width.",
+  "Pull the bar to your upper chest.",
+  "Elbows tucked; return slowly to full extension."
+ ],
+ "Reverse Wide Grip Seated Cable Row": [
+  "Seated at the low row, wide bar with an underhand grip.",
+  "Pull the bar to your waist.",
+  "Chest open; don't rock the torso."
+ ],
+ "Seated Lever Machine One Arm Row": [
+  "Seated, chest on the pad, one handle at a time.",
+  "Pull one arm to your waist.",
+  "Torso doesn't twist; return slowly."
+ ],
+ "Seated Row Machine": [
+  "Seated, chest on the pad, handles in front.",
+  "Pull to your waist, elbows back.",
+  "Shoulder blades together at the end; return straightening."
+ ],
+ "Seated Row Machine (Reverse Grip)": [
+  "Seated, chest on the pad, underhand grip.",
+  "Pull to your waist with elbows tucked.",
+  "Return slowly to full extension."
+ ],
+ "Side-On Single Arm Lat Pulldown": [
+  "Side-on to the high pulley, one arm straight up holding the handle.",
+  "Pull the elbow down, close to your waist.",
+  "Torso firm; feel the side of your back."
+ ],
+ "Single Arm Cable Row": [
+  "Seated or standing, handle in one hand, arm straight in front.",
+  "Pull to your waist, elbow back.",
+  "Don't twist the torso; return straightening."
+ ],
+ "Smith Machine Overhand Grip Bent Over Row": [
+  "In the Smith, torso leaning and straight, overhand grip.",
+  "Pull the bar to your navel.",
+  "Straight back; lower under control."
+ ],
+ "Smith Machine Reverse Grip Bent Over Row": [
+  "In the Smith, torso leaning, underhand grip.",
+  "Pull the bar to your navel, elbows tucked.",
+  "Torso still; lower until straight."
+ ],
+ "Standing Bent Over Cable Row": [
+  "Facing the low pulley, torso leaning and straight.",
+  "Pull to your waist driving the elbows back.",
+  "Back straight the whole time."
+ ],
+ "Standing Bent Over Narrow Reverse Grip Cable Row": [
+  "Low pulley, torso leaning, close underhand grip.",
+  "Pull to your waist, elbows tucked.",
+  "Torso still; return slowly."
+ ],
+ "Standing Bent Over Wide Reverse Grip Cable Row": [
+  "Low pulley, torso leaning, wide underhand grip.",
+  "Pull to your waist.",
+  "Shoulder blades together at the end; straight back."
+ ],
+ "Standing Cable Pulldown": [
+  "Standing facing the high pulley, arms straight up.",
+  "Pull the bar to your chest, elbows down.",
+  "Torso firm, slightly leaning; return straightening."
+ ],
+ "Standing Cable Pullover": [
+  "Standing facing the high pulley, torso slightly leaning, arms straight.",
+  "Bring the bar in an arc down to your thighs.",
+  "Elbows almost straight; your back does the pulling."
+ ],
+ "Standing Rope Pull to the Neck": [
+  "Facing the pulley at face height, rope in hands.",
+  "Pull the rope to your neck/face spreading the elbows.",
+  "Elbows high; squeeze the rear delts."
+ ],
+ "Standing Rope Pullover": [
+  "Facing the high pulley with the rope, arms straight.",
+  "Bring the rope in an arc down to your thighs.",
+  "Elbows almost straight; return slowly."
+ ],
+ "Straight Arm Pulldown": [
+  "Facing the high pulley, straight arms holding the bar.",
+  "Push the bar in an arc down to your thighs, without bending the elbows.",
+  "Torso slightly leaning and still."
+ ],
+ "Universal Lat Pulldown Machine": [
+  "Seated at the pulldown, thighs locked, wide grip.",
+  "Pull the bar to your upper chest.",
+  "Chest open; return with arms fully straight."
+ ],
+ "V Bar Pulldown": [
+  "Seated at the pulldown with the V handle.",
+  "Pull to your upper chest, elbows tucked.",
+  "Don't lean back; return slowly."
+ ],
+ "Wide Bent Over Low Cable Row (Overhand Grip)": [
+  "Low pulley, torso leaning, wide overhand grip.",
+  "Pull to your lower chest, elbows flared.",
+  "Straight back; torso still."
+ ],
+ "Wide Grip Chest to Bar Pull Ups": [
+  "Hanging from the bar with a wide grip.",
+  "Pull up until your chest is close to the bar.",
+  "Lower slowly to full extension; no swinging."
+ ],
+ "Wide Grip Incline T-Bar Row": [
+  "Chest-down on the T-bar incline pad, wide grip.",
+  "Pull driving the elbows out and back.",
+  "Chest on the pad; squeeze the shoulder blades."
+ ],
+ "Wide Grip Lat Pulldown": [
+  "Seated at the pulldown, thighs locked, wide handle from the kit.",
+  "Pull to your upper chest, elbows down.",
+  "Chest open, no leaning back; return with a full stretch."
+ ],
+ "Wide Grip Pulldown with Parallel Grip": [
+  "Seated at the pulldown, wide handle with a neutral grip.",
+  "Pull to your upper chest.",
+  "Elbows down; return slowly."
+ ],
+ "Wide Grip Row": [
+  "Seated at the low row, wide bar.",
+  "Pull to your lower chest, elbows flared.",
+  "Torso still; return straightening."
+ ],
+ "Wide Grip Seated Cable Row (Parallel Grip)": [
+  "Seated at the low row, wide neutral handle.",
+  "Pull to your waist.",
+  "Shoulder blades together; no rocking."
+ ],
+ "Barbell Good Morning": [
+  "Standing, bar on your back, knees slightly bent.",
+  "Push your hips back leaning the torso until almost horizontal.",
+  "Back always straight; come up driving the hips forward."
+ ],
+ "Barbell Hyperextension": [
+  "On the Roman chair, bar/plate held to your chest.",
+  "Lower the torso hinging at the hips and come up with glutes and hamstrings.",
+  "Only rise until in line with your legs."
+ ],
+ "Barbell Sumo Squats": [
+  "Bar on your back, feet wide, toes out.",
+  "Squat tracking the knees toward your toes.",
+  "Torso upright; come up pushing the floor away."
+ ],
+ "Bench Glute Bridge with Bar": [
+  "Upper back (shoulder blades) on the bench, bar on your hips, feet on the floor.",
+  "Drive the hips up until your torso is straight, squeezing the glutes.",
+  "Chin slightly down; lower under control."
+ ],
+ "Bulgarian Split Squat": [
+  "One foot forward, back foot on the bench; dumbbells in hands.",
+  "Lower until the front thigh is almost parallel to the floor.",
+  "Torso firm; the front knee tracks the foot."
+ ],
+ "Deadlift": [
+  "Bar over mid-foot, grip outside the legs, back straight.",
+  "Stand up pushing the floor and extending hips and knees together.",
+  "Bar grazing your legs; don't round your lower back."
+ ],
+ "Dumbbell Deadlift (Glute + Inner Thigh Focus)": [
+  "Feet apart, toes out, dumbbell(s) between your legs.",
+  "Lower pushing the hips back and come up squeezing the glutes.",
+  "Straight back; knees out."
+ ],
+ "Dumbbell Squat": [
+  "Standing, dumbbells at your sides.",
+  "Squat until your thighs are parallel to the floor.",
+  "Heels down; knees track the feet."
+ ],
+ "Glute Bridge on a Machine": [
+  "In the machine, back on the pad, cushion over your hips.",
+  "Drive the hips up squeezing the glutes.",
+  "Hold 1 s at the top; lower slowly."
+ ],
+ "Glutes Hyperextension": [
+  "On the Roman chair, back slightly rounded.",
+  "Come up using the glutes, without arching your lower back.",
+  "Stop when in line with your legs."
+ ],
+ "Leaning Forward Leg Abduction (Machine)": [
+  "On the abductor, torso leaning forward holding the machine.",
+  "Open your legs pushing the pads outward.",
+  "Return slowly without letting the weight slam."
+ ],
+ "Leg Abduction (Machine)": [
+  "Seated on the abductor, pads on the outside of your knees.",
+  "Open your legs pushing outward.",
+  "Back supported; return slowly."
+ ],
+ "Plie": [
+  "Feet wide, toes out, dumbbell between your legs.",
+  "Squat with an upright torso, knees out.",
+  "Come up squeezing the glutes and inner thighs."
+ ],
+ "Seated Machine Back Extensions": [
+  "Seated in the machine, back on the pad, feet braced.",
+  "Push the pad back extending the torso.",
+  "Controlled movement; return slowly."
+ ],
+ "Single Leg Dumbbell Deadlift": [
+  "On one leg, dumbbell in the opposite hand.",
+  "Lean the torso forward while the other leg goes back.",
+  "Hips level (don't rotate); straight back."
+ ],
+ "Smith Machine Plie Squats": [
+  "In the Smith, feet wide, toes out.",
+  "Squat with an upright torso, knees out.",
+  "Come up pushing the floor with your heels."
+ ],
+ "Alternating Front Dumbbell Raise": [
+  "Standing, dumbbells in front of your thighs.",
+  "Raise one straight arm forward to shoulder height, alternating.",
+  "Don't swing the torso; lower slowly."
+ ],
+ "Arnold Press": [
+  "Seated, dumbbells at chin height with palms toward you.",
+  "Press up turning the palms forward.",
+  "Lower turning back; don't arch your lower back."
+ ],
+ "Barbell Front Raise": [
+  "Standing, bar in front of your thighs, overhand grip.",
+  "Raise the bar with straight arms to shoulder height.",
+  "Torso still; lower under control."
+ ],
+ "Barbell High Pull": [
+  "Standing, bar in front of your thighs.",
+  "Pull the bar fast to your chest, elbows high and out.",
+  "Use hip drive only at the start; lower under control."
+ ],
+ "Bent Over Barbell Row": [
+  "Torso leaning (≈45°), back straight, bar hanging.",
+  "Pull the bar to your navel.",
+  "No jerking; lower until straight."
+ ],
+ "Bent Over Dumbbell Lateral Raise (Horizontal Grip)": [
+  "Torso leaning almost parallel to the floor, dumbbells hanging, palms back.",
+  "Raise your arms out to the sides to shoulder height.",
+  "Elbows slightly bent; don't lift the torso."
+ ],
+ "Bent Over Dumbbell Lateral Raise (Parallel Grip)": [
+  "Torso leaning almost parallel to the floor, palms facing each other.",
+  "Raise your arms out to the sides to shoulder line.",
+  "The rear delts do the work; torso still."
+ ],
+ "Bent Over Straight Arm Lat Pull Down with Dumbbells": [
+  "Torso leaning, straight arms in front holding dumbbells.",
+  "Bring the dumbbells in an arc to the sides of your hips.",
+  "Elbows almost straight; squeeze your back."
+ ],
+ "Cable Bent Over One Arm Lateral Raise": [
+  "Torso leaning, low pulley cable crossing in front of your body.",
+  "Open the arm out to the side to shoulder line.",
+  "Torso still; return slowly."
+ ],
+ "Cable Front Raise": [
+  "Back to the low pulley, cable between your legs.",
+  "Raise straight arms forward to shoulder height.",
+  "No swinging; lower slowly."
+ ],
+ "Cable Rope Chest Pull": [
+  "Facing the pulley at chest height, rope in hands.",
+  "Pull the rope to your chest spreading the elbows wide.",
+  "Squeeze the rear delts and shoulder blades; return slowly."
+ ],
+ "Cable Rope Front Raise": [
+  "Back to the low pulley, rope between your legs.",
+  "Raise the rope with straight arms to shoulder height.",
+  "Torso firm; lower under control."
+ ],
+ "Crossed Cable Rear Delt Fly": [
+  "Between the pulleys at shoulder height, cables crossed in front (right hand on the left cable and vice versa).",
+  "Open your arms out and back, at shoulder height.",
+  "Elbows slightly bent; feel the rear delts."
+ ],
+ "Dumbbell Front Raise": [
+  "Standing, dumbbells in front of your thighs.",
+  "Raise straight arms forward to shoulder height.",
+  "No momentum; lower slowly."
+ ],
+ "Dumbbell Upright Row": [
+  "Standing, dumbbells in front of your thighs.",
+  "Pull the dumbbells up close to your body, elbows high.",
+  "Stop at chest height; don't push it if your shoulder hurts."
+ ],
+ "Incline Bench Reverse Front Raise (Dumbbells)": [
+  "Chest-down on an incline bench, dumbbells hanging.",
+  "Raise straight arms forward up to your body line.",
+  "Chest on the bench; lower slowly."
+ ],
+ "Incline Dumbbell Rear Delt Fly": [
+  "Chest-down on an incline bench, dumbbells hanging.",
+  "Open your arms out to the sides to shoulder line.",
+  "Elbows slightly bent; chest on the bench."
+ ],
+ "Incline Prone Dumbbell Row": [
+  "Chest-down on an incline bench, dumbbells hanging.",
+  "Pull the dumbbells driving the elbows back.",
+  "Chest glued to the bench; squeeze the shoulder blades."
+ ],
+ "Incline Reverse Dumbbell Rear Delt Fly": [
+  "Chest-down on an incline bench, palms back.",
+  "Open your arms in an arc to shoulder line.",
+  "Keep your chest on the bench; lower slowly."
+ ],
+ "Lever Seated Reverse Fly (Reverse Grip)": [
+  "Seated facing the machine's backrest, arms in front at shoulder height.",
+  "Open your arms back to your body line.",
+  "Chest glued to the pad; return slowly."
+ ],
+ "Machine Rear Delt Seated Fly": [
+  "Seated facing the backrest (reverse pec deck), arms in front.",
+  "Open your arms back to shoulder line.",
+  "Elbows slightly bent; shoulders down."
+ ],
+ "Machine Shoulder Press": [
+  "Seated in the machine, handles at shoulder height.",
+  "Press up until almost straight.",
+  "Back on the pad; lower to ear height."
+ ],
+ "One Arm Cable Front Raise": [
+  "Back to the low pulley, handle in one hand.",
+  "Raise the straight arm forward to the shoulder.",
+  "Torso firm; lower slowly."
+ ],
+ "One Arm Cable Lateral Raise": [
+  "Side-on to the low pulley, cable passing in front of your body.",
+  "Raise the arm out to the side to shoulder height.",
+  "Elbow slightly bent; don't lean the torso."
+ ],
+ "Seated Barbell Shoulder Press": [
+  "Seated with back support, bar in front of your neck, at shoulder height.",
+  "Press the bar up until almost straight.",
+  "Back supported, no arching; lower to your chin."
+ ],
+ "Seated Dumbbell Front Raise (Extended Arms)": [
+  "Seated, dumbbells at your sides.",
+  "Raise straight arms forward to shoulder height.",
+  "Back firm; lower slowly."
+ ],
+ "Seated Dumbbell Hammer Curl + Overhead Dumbbell Press": [
+  "Seated, dumbbells at your sides with a neutral grip.",
+  "Hammer curl to your shoulders and, from there, press up.",
+  "Lower in reverse order, under control."
+ ],
+ "Seated Dumbbell Lateral Raise": [
+  "Seated, dumbbells at your sides.",
+  "Raise your arms out to the sides to shoulder height.",
+  "Elbows slightly bent; don't shrug toward your ears."
+ ],
+ "Seated Dumbbell Press": [
+  "Seated with back support, dumbbells at shoulder height.",
+  "Press up until the dumbbells almost meet.",
+  "Lower to ear height; lower back supported."
+ ],
+ "Single Arm Incline Lateral Raise": [
+  "Lying on your side on an incline bench, dumbbell in the top hand.",
+  "Raise the arm up to shoulder line.",
+  "Controlled movement; lower slowly."
+ ],
+ "Single Arm Standing Dumbbell Lateral Raise": [
+  "Standing, holding a support with your free hand, dumbbell in the other.",
+  "Raise the arm out to the side to shoulder height.",
+  "Don't lean the torso; lower slowly."
+ ],
+ "Smith Machine Bent Over Row": [
+  "In the Smith, torso leaning and straight, bar hanging.",
+  "Pull to your navel.",
+  "Straight back; lower until straight."
+ ],
+ "Smith Machine Shoulder Press": [
+  "Seated on a bench inside the Smith, bar at shoulder height.",
+  "Press the bar up.",
+  "Lower to your chin; back supported."
+ ],
+ "Standing Dumbbell Front and Lateral Raise": [
+  "Standing, dumbbells at your sides.",
+  "Raise forward to the shoulder, lower; then raise out to the sides.",
+  "Alternate front and side; no swinging."
+ ],
+ "Standing Dumbbell Lateral and Front Raise": [
+  "Standing, dumbbells at your sides.",
+  "Raise out to the sides to the shoulder, lower; then raise forward.",
+  "Alternate side and front; torso still."
+ ],
+ "Standing Dumbbell Lateral Raises": [
+  "Standing, dumbbells at your sides.",
+  "Raise your arms out to the sides to shoulder height.",
+  "Elbows slightly bent; no momentum."
+ ],
+ "Standing Shoulder External Rotation with Cable Row": [
+  "Side-on to the pulley at elbow height, elbow tucked at 90°.",
+  "Rotate the forearm outward, moving your hand away from your belly.",
+  "Elbow stays on your body; light load."
+ ],
+ "Standing Shoulder Internal Rotation with Cable Row": [
+  "Side-on to the pulley, elbow tucked at 90°.",
+  "Rotate the forearm inward, bringing your hand to your belly.",
+  "Elbow fixed; light load."
+ ],
+ "Upright Cable Row": [
+  "Facing the low pulley, bar in hands.",
+  "Pull close to your body up to your chest, elbows high.",
+  "Stop at chest height; no shoulder pain."
+ ],
+ "30° Incline Dumbbell Bench Press": [
+  "Bench inclined at 30°, dumbbells at chest height.",
+  "Press up until the dumbbells almost meet.",
+  "Lower until you feel the chest stretch; shoulder blades pinned to the bench."
+ ],
+ "30° Incline Dumbbell Fly": [
+  "Bench at 30°, dumbbells above your chest, palms facing each other.",
+  "Open your arms in an arc until you feel the chest stretch.",
+  "Elbows slightly bent and fixed; close like a hug."
+ ],
+ "45° Incline Dumbbell Bench Press": [
+  "Bench inclined at 45°, dumbbells at chest height.",
+  "Press up until almost straight.",
+  "Lower under control; shoulder blades pinned to the bench."
+ ],
+ "45° Incline Dumbbell Fly": [
+  "Bench at 45°, dumbbells above your chest.",
+  "Open your arms in an arc into the stretch.",
+  "Elbows fixed, slightly bent; close like a hug."
+ ],
+ "Bent Over Cable Crossover": [
+  "Between the high pulleys, torso leaning forward.",
+  "Bring your hands in an arc until they meet below your chest.",
+  "Elbows slightly bent; return slowly."
+ ],
+ "Chest Dips": [
+  "On the parallel bars, arms straight, torso leaning forward.",
+  "Lower bending the elbows until your shoulders are level with them.",
+  "Push back up; lean the torso to hit more chest."
+ ],
+ "Chest to Floor Push-ups": [
+  "Hands a bit wider than your shoulders, body straight.",
+  "Lower until your chest touches the floor.",
+  "Push back up; don't let your hips sag."
+ ],
+ "Close Grip Push-ups": [
+  "Hands close together, below your chest, body straight.",
+  "Lower with elbows tucked to your body.",
+  "Push the floor away."
+ ],
+ "Decline Machine Chest Press": [
+  "Seated in the machine, handles at lower-chest height.",
+  "Push forward and down until almost straight.",
+  "Back on the pad; return slowly."
+ ],
+ "Dumbbell Pullover": [
+  "Lying on the bench, one dumbbell held with both hands above your chest.",
+  "Take the dumbbell behind your head in an arc.",
+  "Elbows slightly bent; come back without bending them further."
+ ],
+ "Flat Bench Dumbbell Chest Press": [
+  "Lying on a flat bench, dumbbells at chest height.",
+  "Press up until they almost meet.",
+  "Lower under control; shoulder blades together."
+ ],
+ "Flat Bench Dumbbell Fly": [
+  "Lying on a flat bench, dumbbells above your chest.",
+  "Open your arms in an arc into a chest stretch.",
+  "Elbows fixed; close like a hug."
+ ],
+ "Front Incline Dumbbell Raise": [
+  "Lying on your back on an incline bench, dumbbells above your thighs.",
+  "Raise straight arms up above your chest.",
+  "Controlled movement; lower slowly."
+ ],
+ "Hammer Strength Chest Bench Press": [
+  "Seated in the machine, handles at mid-chest height.",
+  "Push forward until almost straight.",
+  "Back supported; return into a chest stretch."
+ ],
+ "Horizontal Barbell Bench Press": [
+  "Lying down, feet on the floor, bar with a grip a bit wider than shoulders.",
+  "Lower the bar to touch your lower chest and press back up.",
+  "Shoulder blades pinned, elbows ≈45° from your body; don't bounce the bar."
+ ],
+ "Horizontal Dumbbell Bench Pullover": [
+  "Lying across the bench (only shoulders supported), dumbbell above your chest.",
+  "Take the dumbbell behind your head in an arc.",
+  "Hips low and firm; return under control."
+ ],
+ "Incline Barbell Bench Press": [
+  "Incline bench (≈30°), bar with a medium grip.",
+  "Lower the bar to your upper chest and press.",
+  "Shoulder blades pinned; lower under control."
+ ],
+ "Incline Dumbbell Bench Press Twist": [
+  "Incline bench, dumbbells with a neutral grip at your chest.",
+  "Press turning the palms forward on the way.",
+  "Lower turning back."
+ ],
+ "Low Cable Crossover": [
+  "Between the low pulleys, one foot forward.",
+  "Bring your hands from low to high until they meet at chest height.",
+  "Elbows slightly bent; return slowly."
+ ],
+ "Lying Dumbbell Svend Press": [
+  "Lying on the bench, dumbbell (or plate) squeezed between your palms at your chest.",
+  "Press up squeezing your hands together.",
+  "Return slowly without letting the pressure go."
+ ],
+ "Lying Machine Chest Press": [
+  "Lying in the machine, handles at chest height.",
+  "Press up until almost straight.",
+  "Return slowly into the stretch."
+ ],
+ "Machine Incline Chest Press": [
+  "Seated in the incline machine, handles at chest height.",
+  "Push forward and up.",
+  "Back on the pad; return slowly."
+ ],
+ "Seated Pec Fly": [
+  "Seated on the pec deck, arms open at chest height.",
+  "Close your arms in front like a hug.",
+  "Elbows slightly bent; return slowly into the stretch."
+ ],
+ "Single Arm 30° Incline Dumbbell Bench Press": [
+  "Bench at 30°, one dumbbell at chest height.",
+  "Press up one arm at a time.",
+  "Torso doesn't twist; lower slowly."
+ ],
+ "Single Arm Chest Fly on the Machine": [
+  "On the pec deck, one arm at a time.",
+  "Close the arm in front of your chest.",
+  "Torso doesn't twist; return slowly."
+ ],
+ "Smith Machine Horizontal Bench Press": [
+  "Flat bench inside the Smith, bar lined up with mid-chest.",
+  "Lower close to your chest and press.",
+  "Shoulder blades pinned; elbows at ≈45°."
+ ],
+ "Smith Machine Incline Bench Press": [
+  "Incline bench inside the Smith, bar lined up with your upper chest.",
+  "Lower close to your chest and press.",
+  "Shoulder blades pinned; lower under control."
+ ],
+ "Standing Cable Crossover": [
+  "Between the high pulleys, one foot forward, torso slightly leaning.",
+  "Bring your hands in an arc until they meet in front of your hips.",
+  "Elbows slightly bent; return opening slowly."
+ ],
+ "Barbell Deadlift": [
+  "Bar over mid-foot, grip outside the legs, back straight, chest open.",
+  "Stand up pushing the floor, extending hips and knees together.",
+  "Bar grazing your legs; lower pushing your hips back."
+ ],
+ "Forward Lunges": [
+  "Standing, dumbbells or hands on your waist.",
+  "Step forward and lower until the back knee almost touches the floor.",
+  "Push back with the front leg; torso upright."
+ ],
+ "Front Barbell Squats": [
+  "Bar resting on the front of your shoulders, elbows high.",
+  "Squat until your thighs are parallel or below.",
+  "Torso very upright; elbows don't drop."
+ ],
+ "Goblet Squat": [
+  "Dumbbell held in front of your chest, feet shoulder-width.",
+  "Squat between your knees, torso upright.",
+  "Heels down; push back up."
+ ],
+ "Hammer Strength Horizontal Calf Extensions": [
+  "Seated in the machine, balls of the feet on the platform, knees almost straight.",
+  "Push with the balls of your feet, extending the ankle.",
+  "Lower into a calf stretch; don't bend your knees."
+ ],
+ "Inner Adductor Workout": [
+  "Seated on the adductor, pads inside your knees, legs open.",
+  "Close your legs squeezing the pads.",
+  "Return opening slowly."
+ ],
+ "Lateral Lunges": [
+  "Standing, feet together.",
+  "Take a wide step to the side and sink into that leg, the other straight.",
+  "Push back; whole foot on the floor."
+ ],
+ "Narrow Stance Leg Press": [
+  "On the leg press, feet together (hip-width) in the middle of the platform.",
+  "Lower bending the knees to ≈90° and push.",
+  "Lower back glued to the pad; don't lock your knees."
+ ],
+ "Seated Calf Raises": [
+  "Seated, pad over your knees, balls of the feet on the platform.",
+  "Raise your heels as high as possible and hold 1 s.",
+  "Lower into a full stretch."
+ ],
+ "Seated Leg Curls": [
+  "Seated on the leg curl, pad behind your ankles, thighs locked.",
+  "Bend your knees pulling the pad down.",
+  "Return slowly until almost straight."
+ ],
+ "Seated Leg Extensions": [
+  "Seated on the leg extension, pad in front of your ankles.",
+  "Straighten your knees until your legs are straight.",
+  "Hold 1 s at the top; lower slowly."
+ ],
+ "Seated Leg Press": [
+  "Seated on the leg press, feet shoulder-width on the platform.",
+  "Lower bending the knees and push back.",
+  "Lower back glued; don't lock your knees at the top."
+ ],
+ "Seated Single Leg Extensions": [
+  "Seated on the leg extension, one leg at a time.",
+  "Straighten the knee until the leg is straight.",
+  "Lower slowly; hips still."
+ ],
+ "Single Leg Lying Curl": [
+  "Lying face down on the leg curl, one leg at a time.",
+  "Bend the knee bringing your heel to your glute.",
+  "Hips glued to the bench; return slowly."
+ ],
+ "Single Leg Press": [
+  "On the leg press, one foot in the middle of the platform.",
+  "Lower bending the knee and push.",
+  "Knee tracks the foot; hips don't rotate."
+ ],
+ "Smith Machine Lunges": [
+  "In the Smith, bar on your back, one foot forward and one back.",
+  "Lower until the back knee almost touches the floor.",
+  "Push up with the front leg."
+ ],
+ "Smith Machine Squats": [
+  "In the Smith, bar on your back, feet slightly forward.",
+  "Squat until your thighs are parallel to the floor.",
+  "Straight back; push the floor away."
+ ],
+ "Smith Machine Standing Calf Raise": [
+  "In the Smith, bar on your back, balls of the feet on a step.",
+  "Raise your heels as high as possible.",
+  "Lower below the step line to stretch."
+ ],
+ "Standing Leg Curls": [
+  "Standing at the leg curl, one leg behind the pad.",
+  "Bend the knee bringing your heel to your glute.",
+  "Hips still; return slowly."
+ ],
+ "Sumo Deadlift": [
+  "Feet wide, toes out, hands inside your legs.",
+  "Stand up pushing the floor apart, knees out.",
+  "Straight back; bar close to your body."
+ ],
+ "Toe Press on the Leg Press": [
+  "On the leg press, only the balls of your feet on the bottom edge, knees almost straight.",
+  "Push the platform by extending the ankle.",
+  "Don't bend your knees; lower into a calf stretch."
+ ],
+ "Wide Stance Barbell Squats": [
+  "Bar on your back, feet wider than shoulders, toes out.",
+  "Squat tracking the knees toward your toes.",
+  "Torso upright; push the floor away."
+ ],
+ "Wide Stance Leg Press": [
+  "On the leg press, feet wide and high on the platform.",
+  "Lower opening the knees and push.",
+  "Lower back glued; don't lock your knees."
+ ],
+ "Bent Over Rope Triceps Extensions": [
+  "Back to the high pulley, torso leaning forward, rope behind your head.",
+  "Extend your arms forward, spreading the rope at the end.",
+  "Elbows fixed beside your head."
+ ],
+ "Cable Bent Over Triceps Extension": [
+  "Torso leaning, elbow tucked and pointing back, low pulley cable.",
+  "Straighten the elbow moving your hand back.",
+  "Only the forearm moves; return slowly."
+ ],
+ "Cable Lying Triceps Extension": [
+  "Lying on the bench with your head near the low pulley, bar above your forehead.",
+  "Straighten your elbows upward.",
+  "Arms still pointing up; return slowly."
+ ],
+ "Cable One Arm Reverse Grip Tricep Pushdown": [
+  "Facing the high pulley, handle in one hand with palm up.",
+  "Straighten the elbow downward.",
+  "Elbow tucked to your body; return slowly."
+ ],
+ "Cable Rope Overhead Triceps Extension": [
+  "Back to the pulley, rope behind your head, elbows pointing forward.",
+  "Extend your arms forward and up.",
+  "Elbows fixed near your head; spread the rope at the end."
+ ],
+ "Dumbbell Seated Overhead Triceps Extension": [
+  "Seated with back support, dumbbell held with both hands behind your head.",
+  "Extend your arms up.",
+  "Elbows pointing up and close together; lower slowly."
+ ],
+ "Dumbbell Seated Single Arm Triceps Extension": [
+  "Seated, one dumbbell behind your head, elbow up.",
+  "Extend the arm up.",
+  "Elbow still; lower slowly."
+ ],
+ "Incline Barbell Triceps Extension": [
+  "Lying on an incline bench, bar above your head.",
+  "Bend your elbows bringing the bar behind your head and extend.",
+  "Arms still; only the forearm moves."
+ ],
+ "Lying Cable Rope Triceps Extension": [
+  "Lying on the bench, head near the low pulley, rope in hands above your forehead.",
+  "Straighten your elbows upward.",
+  "Arms still; return slowly."
+ ],
+ "Lying Dumbbell Triceps Extension": [
+  "Lying on the bench, dumbbells above your chest.",
+  "Bend your elbows bringing the dumbbells beside your head and extend.",
+  "Arms still pointing up."
+ ],
+ "Lying One Arm Dumbbell Triceps Extension": [
+  "Lying down, one dumbbell above your shoulder.",
+  "Bend the elbow bringing the dumbbell to the opposite shoulder and extend.",
+  "Arm still; lower slowly."
+ ],
+ "Machine Triceps Dips": [
+  "Seated in the machine, hands on the handles at your sides.",
+  "Push down until your arms are straight.",
+  "Elbows back and close to your body; return slowly."
+ ],
+ "Narrow Grip Barbell Bench Press": [
+  "Lying down, bar with a shoulder-width grip.",
+  "Lower to your lower chest with elbows tucked and press.",
+  "Grip not too narrow (protects the wrists)."
+ ],
+ "Overhead Cable Triceps Extension": [
+  "Back to the pulley, cable behind your head.",
+  "Extend your arms forward and up.",
+  "Elbows still; return slowly."
+ ],
+ "Parallel Bar Triceps Dips": [
+  "On the parallel bars, torso upright.",
+  "Lower bending the elbows back and come up straightening.",
+  "Torso straight (hits more triceps than chest)."
+ ],
+ "Reverse Grip Triceps Pushdown": [
+  "Facing the high pulley, bar with an underhand grip.",
+  "Straighten your elbows downward.",
+  "Elbows tucked; lighter load."
+ ],
+ "Single Arm Triceps Cable Pushdown": [
+  "Facing the high pulley, handle in one hand.",
+  "Straighten the elbow downward.",
+  "Elbow tucked to your body; return slowly."
+ ],
+ "Smith Machine Close Grip Bench Press": [
+  "Flat bench in the Smith, shoulder-width grip.",
+  "Lower to your chest with elbows tucked and press.",
+  "Wrists straight; lower under control."
+ ],
+ "Triceps Pushdown": [
+  "Facing the high pulley, bar in hands, elbows tucked.",
+  "Push the bar down until your arms are straight.",
+  "Only the forearm moves; return to ≈90°."
+ ],
+ "Triceps Pushdown (Rope Attachment)": [
+  "Facing the high pulley, rope in hands, elbows tucked.",
+  "Push down and spread the rope at the end.",
+  "Elbows still; return slowly."
+ ],
+ "V Handle Triceps Pushdown": [
+  "Facing the high pulley, V handle, elbows tucked.",
+  "Push down until straight.",
+  "Torso still; return slowly."
+ ],
+ "Lying Triceps Extension with a Barbell": [
+  "Lying down, bar above your chest.",
+  "Bend your elbows bringing the bar to your forehead and extend.",
+  "Banned in your plan — don't use."
+ ],
+ "Running in place": [
+  "Standing, jog in place.",
+  "Knees come up a little, arms follow.",
+  "Easy pace for 1–3 min to warm up."
+ ],
+ "Jumping Jacks": [
+  "Standing, feet together, arms at your sides.",
+  "Jump spreading your legs and bringing your arms overhead; return.",
+  "Land on the balls of your feet, soft knees."
+ ],
+ "Arm Circles": [
+  "Standing, arms open at shoulder height.",
+  "Draw small circles with your hands and make them bigger.",
+  "Do both directions."
+ ],
+ "Band Shoulder Dislocates": [
+  "Band or stick with a very wide grip, in front of your hips.",
+  "With straight arms, take it over your head to behind your body and back.",
+  "If it gets stuck, widen your grip."
+ ],
+ "Wall Slides": [
+  "Back, head and arms (in a W) against the wall.",
+  "Slide your arms up until they form a Y.",
+  "Don't let elbows and wrists leave the wall."
+ ],
+ "Shoulder Joints Warmup with Dumbbells": [
+  "Standing, a light dumbbell in each hand, arms at your sides.",
+  "Raise your arms out to the sides up overhead and lower slowly; then roll your shoulders in circles.",
+  "Very light load: it's a warm-up, no pain and no rush."
+ ],
+ "Floor Slides": [
+  "Lying on your back, arms in a W flat on the floor (knees bent if your lower back needs it).",
+  "Slide your arms along the floor up into a Y overhead and back to the W.",
+  "Lower back, elbows and wrists stay on the floor."
+ ],
+ "Cat-Cow": [
+  "On all fours: hands under shoulders, knees under hips.",
+  "Cat: round your back up and look at your navel.",
+  "Cow: let your belly drop and look forward; alternate with your breath."
+ ],
+ "Thread the Needle": [
+  "On all fours.",
+  "Thread one arm under your body, rotating the torso, until your shoulder touches the floor.",
+  "Come back and open that arm to the ceiling. Each side."
+ ],
+ "World's Greatest Stretch": [
+  "Low lunge, both hands on the floor inside the front foot.",
+  "Rotate the torso and reach the arm on the front-leg side to the ceiling.",
+  "Come back and switch sides."
+ ],
+ "90/90 Hip Switch": [
+  "Seated on the floor, both knees bent at 90°: one in front, one to the side.",
+  "Lift your knees and drop both to the other side, like a windshield wiper.",
+  "Torso upright; use your hands behind you if needed."
+ ],
+ "Knee to Wall Ankle Mobilization": [
+  "Facing the wall, one foot a hand's width from it.",
+  "Drive the knee forward to touch the wall, without lifting the heel.",
+  "If it touches easily, move the foot back. Each side."
+ ],
+ "Deep Squat Hold": [
+  "Feet shoulder-width, toes slightly out.",
+  "Sink as low as you can and stay there, heels down.",
+  "Elbows push the knees out; breathe."
+ ],
+ "Kneeling Hip Flexor Stretch": [
+  "Kneeling lunge: back knee on the floor, front foot forward.",
+  "Squeeze the back glute and shift your hips forward.",
+  "Raising the back-side arm deepens the stretch. Each side."
+ ],
+ "Standing Hamstring Stretch": [
+  "Standing, knees almost straight.",
+  "Hinge at the hips and lower the torso with a long spine.",
+  "Feel it in the back of your thighs; don't force your lower back."
+ ],
+ "Seated Forward Fold": [
+  "Seated, legs straight and together.",
+  "Bring your chest toward your thighs, hands on feet or shins.",
+  "Long spine; breathe and release a bit more on each exhale."
+ ],
+ "Standing Quad Stretch": [
+  "Standing, hold a support if needed.",
+  "Bend one knee and bring your heel to your glute holding the ankle.",
+  "Knees together and hips forward. Each side."
+ ],
+ "Wall Calf Stretch": [
+  "Hands on the wall, one leg forward and bent, the back one straight.",
+  "Lean forward with the back heel on the floor.",
+  "Feel the back calf. Each side."
+ ],
+ "Lying Glute Stretch (Figure Four)": [
+  "Lying on your back, knees bent.",
+  "Cross one ankle over the opposite knee (forms a 4).",
+  "Hold the bottom thigh and pull toward your chest. Each side."
+ ],
+ "Butterfly Stretch": [
+  "Seated, soles of the feet together, knees out to the sides.",
+  "Hold your feet and let your knees drop.",
+  "Upright spine; you can lean forward a little."
+ ],
+ "Child's Pose": [
+  "Kneeling, sit back on your heels.",
+  "Bring your torso forward and stretch your arms on the floor.",
+  "Forehead on the floor; breathe deeply."
+ ],
+ "Cobra Stretch": [
+  "Face down, hands beside your chest.",
+  "Push the floor and lift your chest, hips on the floor.",
+  "Shoulders away from your ears; only rise as far as your lower back is comfortable."
+ ],
+ "Doorway Chest Stretch": [
+  "In a doorway, forearm on the frame with the elbow at 90°.",
+  "Step the torso forward until you feel the chest stretch.",
+  "Don't let your shoulder rise. Each side."
+ ],
+ "Cross-Body Shoulder Stretch": [
+  "Standing, one straight arm crossing in front of your chest.",
+  "The other hand pulls that arm by the elbow.",
+  "Shoulder down. Each side."
+ ],
+ "Overhead Triceps Stretch": [
+  "Standing, one hand behind your head, elbow up.",
+  "The other hand pushes the elbow back.",
+  "Head straight. Each side."
+ ],
+ "Dead Hang": [
+  "Hanging from the bar, shoulder-width grip.",
+  "Relax your shoulders and body, breathing.",
+  "Come down calmly; stop if your shoulder hurts."
+ ],
+ "Treadmill": [
+  "On the treadmill, start walking to warm up.",
+  "Raise the speed to the plan's pace.",
+  "Body upright, without holding the rails."
+ ],
+ "Treadmill Incline Walk": [
+  "On the treadmill, high incline and low speed.",
+  "Walk with firm steps, body upright.",
+  "Avoid holding the rails — that way the effort is real."
+ ],
+ "Stationary Bike": [
+  "Set the seat: knee almost straight with the pedal at the bottom.",
+  "Pedal at the plan's pace/level.",
+  "Stable torso; don't rock your hips."
+ ],
+ "ClimbMill": [
+  "On the stair climber, start at a low level.",
+  "Climb the steps with your whole foot, body upright.",
+  "Use the rails only for balance."
+ ],
+ "StairMaster": [
+  "On the stair simulator, start at a low level.",
+  "Climb step by step with your whole foot.",
+  "Body upright; hands only for balance."
+ ],
+ "The Hundred": [
+  "Lying down, head and shoulders off the floor, legs at 45°.",
+  "Pump straight arms up and down, fast and short.",
+  "5 inhales + 5 exhales, 10 times (100)."
+ ],
+ "Roll Up": [
+  "Lying down, arms straight overhead.",
+  "Roll up through the spine vertebra by vertebra until you reach your feet.",
+  "Come back down unrolling slowly."
+ ],
+ "Single Leg Circles": [
+  "Lying down, one leg straight to the ceiling, the other on the floor.",
+  "Draw circles with the top leg.",
+  "Hips still; switch direction and leg."
+ ],
+ "Rolling Like a Ball": [
+  "Seated, hug your shins, back rounded, feet off the floor.",
+  "Roll back to your shoulder blades.",
+  "Return to a seated balance without touching your feet to the floor."
+ ],
+ "Single Leg Stretch": [
+  "Lying down, head and shoulders off the floor.",
+  "Bring one knee to your chest and extend the other leg; switch.",
+  "Lower back on the floor the whole time."
+ ],
+ "Double Leg Stretch": [
+  "Lying down, head off the floor, knees to chest, hands on shins.",
+  "Extend arms and legs at the same time.",
+  "Come back hugging your knees; lower back on the floor."
+ ],
+ "Spine Stretch Forward": [
+  "Seated, legs straight and apart, arms in front.",
+  "Roll the torso forward, reaching ahead.",
+  "Come back unrolling until you sit straight."
+ ],
+ "Saw": [
+  "Seated, legs apart, arms open.",
+  "Rotate the torso and reach a hand to the opposite foot; the other goes back.",
+  "Return to center and switch."
+ ],
+ "Swan": [
+  "Face down, hands beside your shoulders.",
+  "Push the floor and lengthen your chest upward.",
+  "Lower slowly; long neck."
+ ],
+ "Single Leg Kick": [
+  "Face down, on your forearms, chest open.",
+  "Kick one heel toward your glute (2 taps) and switch.",
+  "Abs tight to protect your lower back."
+ ],
+ "Swimming": [
+  "Face down, arms and legs straight and off the floor.",
+  "Lift opposite arm and leg alternating fast, like swimming.",
+  "Breathe while counting; long neck."
+ ],
+ "Side Kick": [
+  "Lying on your side, head on your hand, legs slightly in front of your body.",
+  "Swing the top leg forward and then back.",
+  "Torso still. Each side."
+ ],
+ "Leg Pull Front": [
+  "High plank (hands under shoulders).",
+  "Lift one straight leg and lower it; switch.",
+  "Hips don't move."
+ ],
+ "Teaser": [
+  "Lying down, arms overhead.",
+  "Lift torso and legs at the same time forming a V.",
+  "Balance at the top and lower slowly."
+ ],
+ "Shoulder Bridge": [
+  "Lying down, knees bent, feet on the floor.",
+  "Lift your hips into a bridge and extend one leg to the ceiling.",
+  "Lower the leg, switch; hips high and firm."
+ ],
+ "Mermaid": [
+  "Seated sideways, legs bent to one side.",
+  "Raise that side's arm and lean the torso to the other side, over your head.",
+  "The other hand slides on the floor. Each side."
+ ],
+ "Footwork (Reformer)": [
+  "Lying on the carriage, feet on the bar, knees bent.",
+  "Straighten your legs pushing the carriage.",
+  "Return controlling the spring, without letting it slam."
+ ],
+ "Hundred (Reformer)": [
+  "Lying on the carriage, straps in hands, head and legs lifted.",
+  "Pump your arms down, fast and short.",
+  "5 inhales + 5 exhales, 10 times."
+ ],
+ "Feet in Straps (Reformer)": [
+  "Lying on the carriage, feet in the straps.",
+  "Do frogs, circles and openings with your legs.",
+  "Lower back on the carriage; controlled movements."
+ ],
+ "Long Stretch (Reformer)": [
+  "Plank with hands on the bar and feet on the carriage.",
+  "Push the carriage back and return.",
+  "Body in a straight line the whole time."
+ ],
+ "Elephant (Reformer)": [
+  "In an inverted V, hands on the bar, feet on the carriage.",
+  "Push the carriage back with your feet and bring it back.",
+  "Your hips/abs move the carriage."
+ ],
+ "Knee Stretch (Reformer)": [
+  "Kneeling on the carriage, hands on the bar, back rounded.",
+  "Push the carriage back with your knees and return.",
+  "Torso still; the movement comes from the thighs."
+ ],
+ "Roll Down Bar (Cadillac)": [
+  "Seated facing the spring bar, holding it.",
+  "Roll the spine back and return.",
+  "Slow movement, vertebra by vertebra."
+ ],
+ "Push Through (Cadillac)": [
+  "Seated, hands on the top bar.",
+  "Push the bar over and lengthen the torso forward.",
+  "Come back unrolling until you sit straight."
+ ],
+ "Leg Springs (Cadillac)": [
+  "Lying down, feet in the top springs.",
+  "Lower and raise straight legs.",
+  "Lower back on the mat; control the spring."
+ ],
+ "Footwork (Chair)": [
+  "Seated on the chair, feet on the pedal.",
+  "Press the pedal down and come up controlling the spring.",
+  "Torso upright; knees aligned."
+ ],
+ "Standing Pumping (Chair)": [
+  "Standing beside the chair, one foot on the pedal.",
+  "Press the pedal down and come up slowly.",
+  "Torso upright. Each side."
+ ],
+ "Mountain Climb (Chair)": [
+  "One foot on top of the chair.",
+  "Step up until standing on it and come down slowly.",
+  "The bottom foot doesn't push. Each side."
+ ],
+ "Kettlebell Swing": [
+  "Feet apart, kettlebell between your legs.",
+  "Hinge at the hips (not a squat) and drive the kettlebell forward to chest height.",
+  "Power comes from the hips; arms only guide."
+ ],
+ "Burpee": [
+  "Standing.",
+  "Squat, hands on the floor, jump back to a plank, come back and jump.",
+  "Land softly; abs tight."
+ ],
+ "Mountain Climbers": [
+  "High plank.",
+  "Bring one knee to your chest and switch fast.",
+  "Hips low and still."
+ ],
+ "Jump Squat": [
+  "Feet shoulder-width.",
+  "Squat and jump as high as you can.",
+  "Land softly and go straight into the next one."
+ ],
+ "Box Jump": [
+  "Facing the box.",
+  "Squat a little and jump onto it, landing with both feet.",
+  "Step down, one foot at a time."
+ ],
+ "Box Step Up": [
+  "Facing the box, one foot on top.",
+  "Step up until standing on it.",
+  "Come down slowly. Each side."
+ ],
+ "Farmer's Walk": [
+  "A heavy dumbbell in each hand.",
+  "Walk with short steps.",
+  "Torso upright, shoulders back, abs tight."
+ ],
+ "Battle Rope Waves": [
+  "Half-squat, one end of the rope in each hand.",
+  "Make waves alternating arms.",
+  "Knees bent and torso firm."
+ ],
+ "Medicine Ball Slam": [
+  "Standing, ball in hands.",
+  "Bring the ball overhead and slam it into the floor hard.",
+  "Squat to pick it back up."
+ ],
+ "Wall Ball": [
+  "Facing the wall, ball at your chest.",
+  "Squat and, on the way up, throw the ball at the target.",
+  "Catch the ball and go straight into the next one."
+ ],
+ "Bear Crawl": [
+  "On all fours with knees hovering.",
+  "Crawl moving opposite hand and foot together.",
+  "Back parallel to the floor; knees low."
+ ],
+ "Skater Jumps": [
+  "Standing on one leg.",
+  "Jump sideways landing on the other leg, like a skater.",
+  "Land soft and balanced."
+ ],
+ "TRX Row": [
+  "Hold the handles, body leaning back and straight.",
+  "Pull your chest up to your hands.",
+  "Body in a plank; the more you lean, the harder it is."
+ ],
+ "Plank Shoulder Taps": [
+  "High plank, feet apart.",
+  "Tap the opposite shoulder with one hand and switch.",
+  "Hips still, no rotating."
+ ]
+}

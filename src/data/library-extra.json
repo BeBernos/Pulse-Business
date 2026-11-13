@@ -1,0 +1,1404 @@
+[
+ {
+  "name": "Running in place",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Aquecimento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Aquecimento geral: 1–3 min, ritmo leve.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": [
+    "gastrocnemio"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Jumping Jacks",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Aquecimento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Aquecimento geral.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gastrocnemio"
+   ],
+   "secondary": [
+    "delt_lat"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Arm Circles",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Aquecimento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Círculos pequenos → grandes, nos dois sentidos.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat",
+    "manguito"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Band Shoulder Dislocates",
+  "group": "Mobilidade",
+  "equipment": "Elástico",
+  "pattern": "Mobilidade",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Elástico ou bastão, pegada larga; braços esticados por cima da cabeça e para trás.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "manguito",
+    "delt_ant"
+   ],
+   "secondary": [
+    "peito"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Wall Slides",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Costas e braços encostados na parede; sobe em Y sem tirar os cotovelos.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "manguito"
+   ],
+   "secondary": [
+    "trapezio_sup"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Shoulder Joints Warmup with Dumbbells",
+  "group": "Mobilidade",
+  "equipment": "Halter",
+  "pattern": "Aquecimento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Halteres leves; braços sobem pelos lados até acima da cabeça e voltam, sem pressa.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat",
+    "manguito"
+   ],
+   "secondary": [
+    "delt_ant",
+    "trapezio_sup"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Floor Slides",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Como o Wall Slides, mas deitado de barriga para cima: braços em W no chão, desliza até o Y.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "manguito"
+   ],
+   "secondary": [
+    "trapezio_sup"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Cat-Cow",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Quatro apoios; arredonda e arqueia a coluna devagar, com a respiração.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Thread the Needle",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Rotação torácica em quatro apoios; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "obliquos"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "World's Greatest Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Afundo baixo, mão no chão, gira o tronco e leva o braço para cima; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior",
+    "gluteo"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "90/90 Hip Switch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado, joelhos a 90°; tomba de um lado para o outro.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo_medio",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Knee to Wall Ankle Mobilization",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Joelho avança até a parede sem tirar o calcanhar; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "soleo",
+    "gastrocnemio"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Deep Squat Hold",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Mobilidade",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Agachamento profundo parado, calcanhares no chão.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "adutores",
+    "gluteo"
+   ],
+   "secondary": [
+    "lombar"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Kneeling Hip Flexor Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Joelho de trás no chão, contrai o glúteo e leva o quadril à frente; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Standing Hamstring Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Joelhos quase estendidos, desce com a coluna longa.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior"
+   ],
+   "secondary": [
+    "lombar"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Seated Forward Fold",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado, pernas estendidas, leva o peito em direção às coxas.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior"
+   ],
+   "secondary": [
+    "lombar",
+    "gastrocnemio"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Standing Quad Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Calcanhar no glúteo, joelhos juntos; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Wall Calf Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Mãos na parede, perna de trás estendida, calcanhar no chão; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gastrocnemio",
+    "soleo"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Lying Glute Stretch (Figure Four)",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Deitado, tornozelo sobre o joelho, puxa a coxa de baixo; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "gluteo_medio"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Butterfly Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado, solas dos pés juntas, joelhos para baixo.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "adutores"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Child's Pose",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Senta nos calcanhares e estende os braços à frente; respira fundo.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal",
+    "lombar"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Cobra Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deitado de bruços, empurra o chão e eleva o peito, quadril no chão.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "lombar"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Doorway Chest Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Antebraço no batente a 90°, avança o tronco; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito",
+    "delt_ant"
+   ],
+   "secondary": []
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Cross-Body Shoulder Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Braço cruzando o peito, a outra mão puxa pelo cotovelo; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Overhead Triceps Stretch",
+  "group": "Mobilidade",
+  "equipment": "Peso Corporal",
+  "pattern": "Alongamento",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Mão atrás da cabeça, a outra empurra o cotovelo; por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": [
+    "dorsal"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Dead Hang",
+  "group": "Mobilidade",
+  "equipment": "Barra",
+  "pattern": "Alongamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Pendurado na barra, ombros soltos; descomprime a coluna.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal",
+    "antebraco"
+   ],
+   "secondary": [
+    "manguito"
+   ]
+  },
+  "kind": "mobility"
+ },
+ {
+  "name": "Treadmill",
+  "group": "Cardio",
+  "equipment": "Máquina",
+  "pattern": "Cardio",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Esteira: tempo, distância, velocidade, inclinação, FC, kcal.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio",
+    "posterior"
+   ]
+  },
+  "kind": "cardio",
+  "machine": "treadmill"
+ },
+ {
+  "name": "Treadmill Incline Walk",
+  "group": "Cardio",
+  "equipment": "Máquina",
+  "pattern": "Cardio",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Caminhada inclinada (inclinação alta, velocidade baixa).",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio",
+    "posterior"
+   ]
+  },
+  "kind": "cardio",
+  "machine": "treadmill"
+ },
+ {
+  "name": "Stationary Bike",
+  "group": "Cardio",
+  "equipment": "Máquina",
+  "pattern": "Cardio",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Bicicleta: tempo, distância, rpm, nível, FC, kcal.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio",
+    "posterior"
+   ]
+  },
+  "kind": "cardio",
+  "machine": "bike"
+ },
+ {
+  "name": "ClimbMill",
+  "group": "Cardio",
+  "equipment": "Máquina",
+  "pattern": "Cardio",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Escada rolante (degraus que descem): tempo, andares, nível, FC, kcal.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio",
+    "posterior"
+   ]
+  },
+  "kind": "cardio",
+  "machine": "stairs"
+ },
+ {
+  "name": "StairMaster",
+  "group": "Cardio",
+  "equipment": "Máquina",
+  "pattern": "Cardio",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Simulador de escada: tempo, andares, nível, FC, kcal.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio",
+    "posterior"
+   ]
+  },
+  "kind": "cardio",
+  "machine": "stairs"
+ },
+ {
+  "name": "The Hundred",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Cabeça e ombros fora do chão, pernas a 45°; bombeia os braços 5 inspirações + 5 expirações × 10.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Roll Up",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Enrola a coluna vértebra por vértebra até alcançar os pés e volta devagar.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Single Leg Circles",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Perna para cima desenha círculos; quadril parado. Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen",
+    "gluteo_medio"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Rolling Like a Ball",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Bola compacta: rola até as escápulas e volta ao equilíbrio sem tocar os pés.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Single Leg Stretch",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Cabeça fora do chão, troca as pernas: um joelho ao peito, a outra estendida.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "obliquos"
+   ]
+  }
+ },
+ {
+  "name": "Double Leg Stretch",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Encolhe tudo e estica braços e pernas ao mesmo tempo, sem tirar as costas do chão.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Spine Stretch Forward",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado, pernas afastadas; enrola o tronco para a frente.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Saw",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Sentado, gira e leva a mão ao pé oposto (a outra vai para trás). Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "obliquos"
+   ],
+   "secondary": [
+    "posterior",
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Swan",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "De bruços, empurra o chão e alonga o peito para cima.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar"
+   ],
+   "secondary": [
+    "gluteo",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Single Leg Kick",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "De bruços nos antebraços, calcanhar ao glúteo alternando.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior"
+   ],
+   "secondary": [
+    "gluteo",
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Swimming",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "De bruços, braço e perna opostos sobem e alternam rápido.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar",
+    "gluteo"
+   ],
+   "secondary": [
+    "costas_media",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Side Kick",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Deitado de lado, a perna de cima vai à frente e atrás. Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo_medio"
+   ],
+   "secondary": [
+    "abdomen",
+    "obliquos"
+   ]
+  }
+ },
+ {
+  "name": "Leg Pull Front",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Prancha alta; eleva uma perna de cada vez sem mexer o quadril.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "gluteo",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Teaser",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sobe em V: pernas e tronco no ar, braços paralelos às pernas.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Shoulder Bridge",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Ponte de quadril; eleva uma perna estendida e alterna.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "posterior"
+   ],
+   "secondary": [
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Mermaid",
+  "group": "Pilates",
+  "equipment": "Colchonete",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Sentado de lado, inclinação lateral com o braço por cima. Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "obliquos"
+   ],
+   "secondary": [
+    "dorsal"
+   ]
+  }
+ },
+ {
+  "name": "Footwork (Reformer)",
+  "group": "Pilates",
+  "equipment": "Reformer",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deitado no carrinho, pés na barra: estica e volta controlando a mola.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio"
+   ]
+  }
+ },
+ {
+  "name": "Hundred (Reformer)",
+  "group": "Pilates",
+  "equipment": "Reformer",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "The Hundred segurando as alças.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Feet in Straps (Reformer)",
+  "group": "Pilates",
+  "equipment": "Reformer",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Pés nas alças: sapo, círculos e aberturas.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "adutores",
+    "posterior"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Long Stretch (Reformer)",
+  "group": "Pilates",
+  "equipment": "Reformer",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Prancha com as mãos na barra; empurra o carrinho para trás e volta.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen",
+    "delt_ant"
+   ],
+   "secondary": [
+    "peito",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Elephant (Reformer)",
+  "group": "Pilates",
+  "equipment": "Reformer",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Em V invertido, mãos na barra; o quadril leva o carrinho.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen",
+    "posterior"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Knee Stretch (Reformer)",
+  "group": "Pilates",
+  "equipment": "Reformer",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Ajoelhado no carrinho, costas arredondadas; os joelhos empurram para trás.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen",
+    "gluteo"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Roll Down Bar (Cadillac)",
+  "group": "Pilates",
+  "equipment": "Cadillac",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado, segurando a barra com molas; enrola para trás e volta.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "dorsal"
+   ]
+  }
+ },
+ {
+  "name": "Push Through (Cadillac)",
+  "group": "Pilates",
+  "equipment": "Cadillac",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado, empurra a barra por cima e alonga o tronco para a frente.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal",
+    "posterior"
+   ],
+   "secondary": [
+    "abdomen",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Leg Springs (Cadillac)",
+  "group": "Pilates",
+  "equipment": "Cadillac",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deitado, pés nas molas de cima: desce e sobe as pernas.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior",
+    "adutores"
+   ],
+   "secondary": [
+    "abdomen",
+    "gluteo"
+   ]
+  }
+ },
+ {
+  "name": "Footwork (Chair)",
+  "group": "Pilates",
+  "equipment": "Chair",
+  "pattern": "Pilates",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Sentado na chair, pés no pedal: desce e sobe controlando a mola.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gastrocnemio"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Standing Pumping (Chair)",
+  "group": "Pilates",
+  "equipment": "Chair",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Em pé ao lado, um pé no pedal; desce e sobe. Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Mountain Climb (Chair)",
+  "group": "Pilates",
+  "equipment": "Chair",
+  "pattern": "Pilates",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Um pé em cima da chair, sobe até ficar em pé e desce devagar. Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "quadriceps"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Kettlebell Swing",
+  "group": "Funcional",
+  "equipment": "Kettlebell",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Dobra o quadril (não agacha) e projeta o kettlebell até a altura do peito com o quadril.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "posterior"
+   ],
+   "secondary": [
+    "lombar",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Burpee",
+  "group": "Funcional",
+  "equipment": "Peso Corporal",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Agacha, mãos no chão, prancha, volta e salta.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "peito"
+   ],
+   "secondary": [
+    "abdomen",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Mountain Climbers",
+  "group": "Funcional",
+  "equipment": "Peso Corporal",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Prancha alta, joelhos alternando rápido em direção ao peito.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": [
+    "quadriceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Jump Squat",
+  "group": "Funcional",
+  "equipment": "Peso Corporal",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Agachamento com salto; aterrissa macio.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio"
+   ]
+  }
+ },
+ {
+  "name": "Box Jump",
+  "group": "Funcional",
+  "equipment": "Caixa",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Salta para cima da caixa e desce com cuidado (de preferência andando).",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "gastrocnemio"
+   ]
+  }
+ },
+ {
+  "name": "Box Step Up",
+  "group": "Funcional",
+  "equipment": "Caixa",
+  "pattern": "Funcional",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Sobe na caixa com uma perna e desce devagar. Por lado.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "quadriceps"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Farmer's Walk",
+  "group": "Funcional",
+  "equipment": "Halter",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Caminha com um halter pesado em cada mão, tronco firme.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco",
+    "trapezio_sup"
+   ],
+   "secondary": [
+    "abdomen",
+    "gluteo"
+   ]
+  }
+ },
+ {
+  "name": "Battle Rope Waves",
+  "group": "Funcional",
+  "equipment": "Corda Naval",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Semi-agachado, ondas alternadas com as cordas.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant",
+    "delt_lat"
+   ],
+   "secondary": [
+    "abdomen",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Medicine Ball Slam",
+  "group": "Funcional",
+  "equipment": "Medicine Ball",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Leva a bola acima da cabeça e arremessa no chão.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal",
+    "abdomen"
+   ],
+   "secondary": [
+    "delt_ant",
+    "gluteo"
+   ]
+  }
+ },
+ {
+  "name": "Wall Ball",
+  "group": "Funcional",
+  "equipment": "Medicine Ball",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Agacha com a bola no peito e, ao subir, arremessa no alvo da parede.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Bear Crawl",
+  "group": "Funcional",
+  "equipment": "Peso Corporal",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Quatro apoios com joelhos suspensos; anda mão e pé opostos.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen",
+    "delt_ant"
+   ],
+   "secondary": [
+    "quadriceps"
+   ]
+  }
+ },
+ {
+  "name": "Skater Jumps",
+  "group": "Funcional",
+  "equipment": "Peso Corporal",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Saltos laterais de uma perna para a outra.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo_medio",
+    "quadriceps"
+   ],
+   "secondary": [
+    "gastrocnemio"
+   ]
+  }
+ },
+ {
+  "name": "TRX Row",
+  "group": "Funcional",
+  "equipment": "TRX",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Corpo inclinado para trás segurando as alças; puxa o peito até as mãos.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Plank Shoulder Taps",
+  "group": "Funcional",
+  "equipment": "Peso Corporal",
+  "pattern": "Funcional",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Prancha alta; toca o ombro oposto sem girar o quadril.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen",
+    "obliquos"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ }
+]

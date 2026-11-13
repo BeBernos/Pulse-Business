@@ -1,0 +1,26 @@
+// Configuração do Cloudflare (Worker "app-treino"), mesma conta dos outros apps (example.workers.dev).
+// - assets: o build (`npm run ci`) gera dist/, servido como site estático (o app, offline).
+// - main: worker/index.js atende /api/auth/* (contas), /api/sync (dados), /api/push/* (lembretes) e o cron.
+// - KV: guarda os aparelhos inscritos e a chave VAPID (gerada sozinha no 1º uso). Sem "id":
+//   o primeiro `wrangler deploy` cria o namespace e liga ao Worker, como no Diets-Treino.
+// - D1 "pulso": contas (senha + passkey) e os dados sincronizados de cada pessoa. Também criado sozinho no
+//   deploy; as tabelas são criadas pelo próprio Worker (worker/schema.js).
+// Segredo obrigatório (NÃO coloque aqui): PULSO_SETUP = código de instalação da 1ª conta (docs/PASSO-A-PASSO.md).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "app-treino",
+  "main": "worker/index.js",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS"
+  },
+  "kv_namespaces": [{ "binding": "KV" }],
+  "d1_databases": [{ "binding": "DB", "database_name": "pulso" }],
+  // Ponte com o Plano da Família (Worker "plano-familia", classe Ponte): peso único e "Treinou hoje?".
+  // Ligação interna entre Workers, sem rota pública (worker/ponte.js).
+  "services": [{ "binding": "FAMILIA", "service": "plano-familia", "entrypoint": "Ponte" }],
+  // a cada minuto: envia os lembretes que venceram
+  "triggers": { "crons": ["* * * * *"] },
+  "observability": { "enabled": true }
+}

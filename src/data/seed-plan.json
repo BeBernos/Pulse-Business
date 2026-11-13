@@ -1,0 +1,1260 @@
+{
+ "format": "app-treino/plan@1",
+ "block": {
+  "id": "2026-ago-out",
+  "name": "Ago–Out 2026 · PPL + Upper/Lower",
+  "startDate": "2026-07-27",
+  "weeks": 13,
+  "deloadWeeks": [
+   7
+  ],
+  "weekLabels": {
+   "1": "C1 · Tipo 1 (6·6·5·5)",
+   "2": "C1 · Tipo 2 (6·5·4·3)",
+   "3": "C1 · Tipo 3 (6·4·3·2)",
+   "4": "C2 · Tipo 1 (6·6·5·5)",
+   "5": "C2 · Tipo 2 (6·5·4·3)",
+   "6": "C2 · Tipo 3 (6·4·3·2)",
+   "7": "Deload",
+   "8": "C3 · Tipo 1 (6·6·5·5)",
+   "9": "C3 · Tipo 2 (6·5·4·3)",
+   "10": "C3 · Tipo 3 (6·4·3·2)",
+   "11": "C4 · Tipo 1 (6·6·5·5)",
+   "12": "C4 · Tipo 2 (6·5·4·3)",
+   "13": "C4 · Tipo 3 (6·4·3·2)"
+  },
+  "goal": "Powerbuilding: hipertrofia primária, força secundária.",
+  "notes": "Prioridades: deltoide lateral > glúteos/posterior > largura de dorsais > gastrocnêmio > peito alto."
+ },
+ "schedule": {
+  "mon": "A",
+  "tue": "B",
+  "wed": null,
+  "thu": "C",
+  "fri": "D",
+  "sat": "E",
+  "sun": null
+ },
+ "deload": {
+  "setsFactor": 0.5
+ },
+ "days": [
+  {
+   "key": "A",
+   "name": "Push",
+   "color": "#FF3B5C",
+   "warmup": [
+    "Running in place 2 min",
+    "Shoulder joints warmup with dumbbells 2×15",
+    "Plank push-up 2×8",
+    "Rampa do supino inclinado: leve ×12 → 50% ×8 → 70% ×5 → 85% ×3"
+   ],
+   "cardio": "ClimbMill Z2 · 20–25 min · ~120 bpm (110–128)",
+   "exercises": [
+    {
+     "name": "45° Incline Dumbbell Bench Press",
+     "sets": 4,
+     "reps": 6,
+     "restSec": 180,
+     "rir": "1–3",
+     "main": true
+    },
+    {
+     "name": "Hammer Strength Chest Bench Press",
+     "sets": 3,
+     "reps": 8,
+     "restSec": 150,
+     "rir": "1–3",
+     "sub": "Decline Machine Chest Press"
+    },
+    {
+     "name": "Bent Over Cable Crossover",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Standing Cable Crossover"
+    },
+    {
+     "name": "Seated Barbell Shoulder Press",
+     "sets": 3,
+     "reps": 6,
+     "restSec": 150,
+     "rir": "1–3"
+    },
+    {
+     "name": "Seated Dumbbell Lateral Raise",
+     "sets": 4,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "priority": true
+    },
+    {
+     "name": "Lying Cable Rope Triceps Extension",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Machine Triceps Dips"
+    },
+    {
+     "name": "V Handle Triceps Pushdown",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Triceps Pushdown (Rope Attachment)"
+    },
+    {
+     "name": "Smith Machine Standing Calf Raise",
+     "sets": 4,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Toe Press on the Leg Press"
+    }
+   ]
+  },
+  {
+   "key": "B",
+   "name": "Pull",
+   "color": "#3B9BFF",
+   "warmup": [
+    "Running in place 2 min",
+    "Shoulder joints warmup with dumbbells 2×15",
+    "Superman 2×12",
+    "Rampa da puxada: 35 ×12 → 50 ×8 → 60 ×5"
+   ],
+   "cardio": "ClimbMill Z2 · 20–25 min · ~120 bpm (110–128)",
+   "exercises": [
+    {
+     "name": "Wide Grip Lat Pulldown",
+     "sets": 4,
+     "reps": 8,
+     "restSec": 150,
+     "rir": "1–3",
+     "kg": 82,
+     "priority": true,
+     "main": true,
+     "sub": "Hammer Machine Lat Pulldown",
+     "handle": "Puxador maior/largo do kit anatômico"
+    },
+    {
+     "name": "Bent Over Regular Grip Barbell Row",
+     "sets": 3,
+     "reps": 8,
+     "restSec": 150,
+     "rir": "1–3"
+    },
+    {
+     "name": "Side-On Single Arm Lat Pulldown",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "perSide": true,
+     "sub": "Standing Cable Pulldown"
+    },
+    {
+     "name": "Crossed Cable Rear Delt Fly",
+     "sets": 3,
+     "reps": 15,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Lever Seated Reverse Fly (Reverse Grip)"
+    },
+    {
+     "name": "Barbell Curl",
+     "sets": 3,
+     "reps": 8,
+     "restSec": 90,
+     "rir": "0–2"
+    },
+    {
+     "name": "Machine Bicep Curl",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Standing Cable Curl"
+    },
+    {
+     "name": "Seated Calf Raises",
+     "sets": 4,
+     "reps": 15,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Hammer Strength Horizontal Calf Extensions"
+    }
+   ]
+  },
+  {
+   "key": "C",
+   "name": "Legs · agachamento",
+   "color": "#F5B942",
+   "warmup": [
+    "Leg swings",
+    "Alternating side lunge touch",
+    "Low lunge with one arm raised",
+    "Aproximação do agachamento (rampa no exercício)"
+   ],
+   "cardio": "Sem cardio (opcional: 15 min de caminhada inclinada)",
+   "exercises": [
+    {
+     "name": "Wide Stance Barbell Squats",
+     "sets": 4,
+     "reps": 6,
+     "restSec": 180,
+     "rir": "1–3",
+     "main": true,
+     "byWeek": {
+      "1": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 55,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 100,
+         "reps": 6
+        },
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 110,
+         "reps": 5
+        },
+        {
+         "kg": 120,
+         "reps": 5
+        }
+       ]
+      },
+      "2": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 55,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 100,
+         "reps": 6
+        },
+        {
+         "kg": 110,
+         "reps": 5
+        },
+        {
+         "kg": 120,
+         "reps": 4
+        },
+        {
+         "kg": 130,
+         "reps": 3
+        }
+       ]
+      },
+      "3": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 55,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 100,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 4
+        },
+        {
+         "kg": 125,
+         "reps": 3
+        },
+        {
+         "kg": 135,
+         "reps": 2
+        }
+       ]
+      },
+      "4": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 5
+        },
+        {
+         "kg": 125,
+         "reps": 5
+        }
+       ]
+      },
+      "5": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 5
+        },
+        {
+         "kg": 125,
+         "reps": 4
+        },
+        {
+         "kg": 135,
+         "reps": 3
+        }
+       ]
+      },
+      "6": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 4
+        },
+        {
+         "kg": 130,
+         "reps": 3
+        },
+        {
+         "kg": 140,
+         "reps": 2
+        }
+       ]
+      },
+      "7": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 5
+        },
+        {
+         "kg": 140,
+         "reps": 2
+        }
+       ],
+       "note": "Deload: ajuste ×5 + topo único ×2, longe da falha."
+      },
+      "8": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 5
+        },
+        {
+         "kg": 130,
+         "reps": 5
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "9": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 5
+        },
+        {
+         "kg": 130,
+         "reps": 4
+        },
+        {
+         "kg": 140,
+         "reps": 3
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "10": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 60,
+         "reps": 3
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 125,
+         "reps": 4
+        },
+        {
+         "kg": 135,
+         "reps": 3
+        },
+        {
+         "kg": 145,
+         "reps": 2
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "11": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 65,
+         "reps": 3
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 6
+        },
+        {
+         "kg": 125,
+         "reps": 5
+        },
+        {
+         "kg": 135,
+         "reps": 5
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "12": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 65,
+         "reps": 3
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 125,
+         "reps": 5
+        },
+        {
+         "kg": 135,
+         "reps": 4
+        },
+        {
+         "kg": 145,
+         "reps": 3
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "13": {
+       "ramp": [
+        {
+         "kg": 20,
+         "reps": 8
+        },
+        {
+         "kg": 65,
+         "reps": 3
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 130,
+         "reps": 4
+        },
+        {
+         "kg": 140,
+         "reps": 3
+        },
+        {
+         "kg": 150,
+         "reps": 2
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      }
+     }
+    },
+    {
+     "name": "Narrow Stance Leg Press",
+     "sets": 3,
+     "reps": 8,
+     "restSec": 150,
+     "rir": "1–3",
+     "sub": "Seated Leg Press"
+    },
+    {
+     "name": "Seated Leg Extensions",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Seated Single Leg Extensions"
+    },
+    {
+     "name": "Seated Leg Curls",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Single Leg Lying Curl"
+    },
+    {
+     "name": "Barbell Hyperextension",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "notes": "Lombar direta: manter 48–72 h de distância do terra."
+    },
+    {
+     "name": "Toe Press on the Leg Press",
+     "sets": 4,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Smith Machine Standing Calf Raise"
+    },
+    {
+     "name": "Hanging Leg Raises",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2"
+    }
+   ]
+  },
+  {
+   "key": "D",
+   "name": "Upper",
+   "color": "#8B7BFF",
+   "warmup": [
+    "Running in place 2 min",
+    "Shoulder joints warmup with dumbbells 2×15",
+    "Pallof press 2×12 por lado",
+    "Rampa de dips 2×6"
+   ],
+   "cardio": "ClimbMill Z2 · 20–25 min · ~120 bpm (110–128)",
+   "exercises": [
+    {
+     "name": "Chest Dips",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 150,
+     "rir": "1–3",
+     "main": true
+    },
+    {
+     "name": "Lat Machine Pull-Down (Reverse Grip)",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 150,
+     "rir": "1–3",
+     "sub": "Reverse Grip Lat Pulldown"
+    },
+    {
+     "name": "Seated Dumbbell Press",
+     "sets": 3,
+     "reps": 8,
+     "restSec": 150,
+     "rir": "1–3"
+    },
+    {
+     "name": "Standing Hammer Dumbbell Curl",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 90,
+     "rir": "0–2"
+    },
+    {
+     "name": "Dumbbell Seated Overhead Triceps Extension",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 90,
+     "rir": "0–2"
+    },
+    {
+     "name": "Single Arm Standing Dumbbell Lateral Raise",
+     "sets": 4,
+     "reps": 15,
+     "restSec": 60,
+     "rir": "0–2",
+     "perSide": true,
+     "priority": true
+    },
+    {
+     "name": "Straight Arm Pulldown",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "priority": true,
+     "sub": "Standing Cable Pullover"
+    },
+    {
+     "name": "Smith Machine Standing Calf Raise",
+     "sets": 4,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2"
+    }
+   ]
+  },
+  {
+   "key": "E",
+   "name": "Lower · terra",
+   "color": "#C7CBD6",
+   "warmup": [
+    "Running in place 60 s",
+    "Leg swings",
+    "Low lunge",
+    "Dobradiça com barra vazia 1×8",
+    "Aproximação do terra (rampa no exercício)"
+   ],
+   "cardio": "Sem cardio",
+   "exercises": [
+    {
+     "name": "Barbell Deadlift",
+     "sets": 4,
+     "reps": 6,
+     "restSec": 180,
+     "rir": "1–3",
+     "main": true,
+     "byWeek": {
+      "1": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 100,
+         "reps": 6
+        },
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 110,
+         "reps": 5
+        },
+        {
+         "kg": 115,
+         "reps": 5
+        }
+       ]
+      },
+      "2": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 100,
+         "reps": 6
+        },
+        {
+         "kg": 110,
+         "reps": 5
+        },
+        {
+         "kg": 120,
+         "reps": 4
+        },
+        {
+         "kg": 130,
+         "reps": 3
+        }
+       ]
+      },
+      "3": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 80,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 100,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 4
+        },
+        {
+         "kg": 125,
+         "reps": 3
+        },
+        {
+         "kg": 135,
+         "reps": 2
+        }
+       ]
+      },
+      "4": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 5
+        },
+        {
+         "kg": 120,
+         "reps": 5
+        }
+       ]
+      },
+      "5": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 5
+        },
+        {
+         "kg": 125,
+         "reps": 4
+        },
+        {
+         "kg": 135,
+         "reps": 3
+        }
+       ]
+      },
+      "6": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 4
+        },
+        {
+         "kg": 130,
+         "reps": 3
+        },
+        {
+         "kg": 140,
+         "reps": 2
+        }
+       ]
+      },
+      "7": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 85,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 105,
+         "reps": 5
+        },
+        {
+         "kg": 140,
+         "reps": 2
+        }
+       ],
+       "note": "Deload: ajuste ×5 + topo único ×2, longe da falha."
+      },
+      "8": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 5
+        },
+        {
+         "kg": 125,
+         "reps": 5
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "9": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 5
+        },
+        {
+         "kg": 130,
+         "reps": 4
+        },
+        {
+         "kg": 140,
+         "reps": 3
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "10": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 110,
+         "reps": 6
+        },
+        {
+         "kg": 125,
+         "reps": 4
+        },
+        {
+         "kg": 135,
+         "reps": 3
+        },
+        {
+         "kg": 145,
+         "reps": 2
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "11": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 120,
+         "reps": 6
+        },
+        {
+         "kg": 125,
+         "reps": 5
+        },
+        {
+         "kg": 130,
+         "reps": 5
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "12": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 125,
+         "reps": 5
+        },
+        {
+         "kg": 135,
+         "reps": 4
+        },
+        {
+         "kg": 145,
+         "reps": 3
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      },
+      "13": {
+       "ramp": [
+        {
+         "kg": 60,
+         "reps": 5
+        },
+        {
+         "kg": 90,
+         "reps": 2
+        }
+       ],
+       "sets": [
+        {
+         "kg": 115,
+         "reps": 6
+        },
+        {
+         "kg": 130,
+         "reps": 4
+        },
+        {
+         "kg": 140,
+         "reps": 3
+        },
+        {
+         "kg": 150,
+         "reps": 2
+        }
+       ],
+       "note": "Ciclo 3+: extrapolação de +5 kg/ciclo, não validada com dado real."
+      }
+     }
+    },
+    {
+     "name": "Single Leg Lying Curl",
+     "sets": 3,
+     "reps": 12,
+     "restSec": 90,
+     "rir": "0–2",
+     "perSide": true,
+     "sub": "Standing Leg Curls"
+    },
+    {
+     "name": "Bulgarian Split Squat",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 120,
+     "rir": "1–3",
+     "perSide": true
+    },
+    {
+     "name": "Smith Machine Plie Squats",
+     "sets": 3,
+     "reps": 10,
+     "restSec": 120,
+     "rir": "1–3"
+    },
+    {
+     "name": "Leaning Forward Leg Abduction (Machine)",
+     "sets": 3,
+     "reps": 20,
+     "restSec": 60,
+     "rir": "0–2",
+     "sub": "Leg Abduction (Machine)"
+    },
+    {
+     "name": "Hammer Strength Horizontal Calf Extensions",
+     "sets": 4,
+     "reps": 15,
+     "restSec": 90,
+     "rir": "0–2",
+     "sub": "Seated Calf Raises"
+    },
+    {
+     "name": "Decline Crunch",
+     "sets": 3,
+     "reps": 15,
+     "restSec": 60,
+     "rir": "0–2"
+    }
+   ]
+  }
+ ],
+ "restrictions": [
+  {
+   "exercise": "Wide Stance Barbell Squats",
+   "type": "suspended",
+   "until": "2026-10-31",
+   "reason": "Dor no joelho esquerdo (parte central). Avaliação com ortopedista/fisio recomendada."
+  },
+  {
+   "exercise": "Lying Triceps Extension with a Barbell",
+   "type": "vetoed",
+   "reason": "Machuca o cotovelo direito. Nunca programar."
+  }
+ ],
+ "notes": [
+  "Descanso: compostos 2–3 min (grandes lifts 3 min). Isoladores: 60–90 s [assumido].",
+  "Intensidade: compostos 1–3 RIR, isoladores 0–2 RIR.",
+  "Deload (semana 7): metade das séries, mesma carga, parando 3–4 reps antes da falha."
+ ]
+}

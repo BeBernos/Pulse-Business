@@ -1,0 +1,4314 @@
+[
+ {
+  "name": "Behind the Back Barbell Wrist Curl",
+  "group": "Antebraço",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Palms Up Barbell Wrist Curl (Over a Bench)",
+  "group": "Antebraço",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Sideways Standing Wrist Curl (Elbow 90°, Crossover Machine)",
+  "group": "Antebraço",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm Dumbbell Reverse Wrist Curl (Overhand Grip)",
+  "group": "Antebraço",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm Dumbbell Wrist Curl (Underhand Grip)",
+  "group": "Antebraço",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm Standing Cable Wrist Curl (Elbow 90°, Top Attachment)",
+  "group": "Antebraço",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm Standing Reverse Cable Wrist Curl (Bottom Attachment)",
+  "group": "Antebraço",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Standing Wrist Curl (Crossover Machine)",
+  "group": "Antebraço",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "antebraco"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Alternating Incline Dumbbell Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Alternating Standing Dumbbell Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Alternating Standing Dumbbell Twist Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Barbell Curl",
+  "group": "Bíceps",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Concentration Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "High Pulley Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Incline Dumbbell Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Incline Dumbbell Twist Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Inside Grip Rope Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Machine Bicep Curl",
+  "group": "Bíceps",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — adicionado jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "One Arm Dumbbell Preacher Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "One Arm Scott Dumbbell Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Overhand Barbell Curl",
+  "group": "Bíceps",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Reverse Dumbbell Curl Twisted",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Reverse Incline Bench Barbell Curl",
+  "group": "Bíceps",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Seated Alternating Twist Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Seated Dumbbell Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Seated Hammer Curls",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Single Arm Scott Bench Hammer Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Squatting Bicep Cable Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Standing Cable Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Standing Dumbbell Curls",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Standing Dumbbell Reverse Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Standing Dumbbell Twist Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Standing Hammer Dumbbell Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Standing One Arm Cable Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Standing One Arm No Handle Cable Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "biceps"
+   ],
+   "secondary": [
+    "braquial"
+   ]
+  }
+ },
+ {
+  "name": "Standing Reverse Cable Curl",
+  "group": "Bíceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Standing Single Arm Dumbbell Hammer Curls (Incline Bench)",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Zottman Curl",
+  "group": "Bíceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "braquial"
+   ],
+   "secondary": [
+    "biceps",
+    "antebraco"
+   ]
+  }
+ },
+ {
+  "name": "Ab Wheel Rollout",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Anti-extensão",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Abdominal Crunch (Machine Assisted)",
+  "group": "Core",
+  "equipment": "Máquina",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Alternating Diagonal Crunch",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Oblíquos",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "obliquos"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Alternating Toe Touch Crunch",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Bench Knee Tucks",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Decline Crunch",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Decline Sit Ups",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Elbow Plank",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Isometria",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Feet Raised Russian Twist",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Oblíquos",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "obliquos"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Floor Crunch",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Full Hanging Leg Raises",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Half Crunch",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Hanging Leg Raises",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Incline Bench Reverse Crunch",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Incline Bench Reverse Crunches (Knees Bended)",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Kneeling Pulley Row",
+  "group": "Core",
+  "equipment": "Cabo",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Equivalente ao cable crunch",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Leg Raise",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Plank",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Isometria",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Russian Twists",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Oblíquos",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "obliquos"
+   ],
+   "secondary": [
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Sit Up with Legs Raised",
+  "group": "Core",
+  "equipment": "Peso Corporal",
+  "pattern": "Core",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "abdomen"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Back Extension",
+  "group": "Costas",
+  "equipment": "Peso Corporal",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar"
+   ],
+   "secondary": [
+    "gluteo",
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Barbell Pullover",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "peito",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Arm Cable Pull",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Dumbbell Row",
+  "group": "Costas",
+  "equipment": "Halter",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Dumbbell Row (Standing and Both Handed)",
+  "group": "Costas",
+  "equipment": "Halter",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Regular Grip Barbell Row",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Reverse Grip Barbell Row",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Two Arm T-Bar Row",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Cable Shrug (Straight Bar Attachment)",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "trapezio_sup"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Close Grip Front Lat Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Crossover Machine Cable Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Dumbbell Incline Bench Two Arm Row",
+  "group": "Costas",
+  "equipment": "Halter",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Dumbbell Shrugs",
+  "group": "Costas",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "trapezio_sup"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Front Barbell Shrugs",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "trapezio_sup"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Hammer Machine Lat Pulldown",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Incline Barbell Bench Pull",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Kneeling Cable Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Lat Machine Pull-Down (Reverse Grip)",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — adicionado jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Lever Seated Row Machine",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Narrow Bent Over Low Cable Row (Overhand Grip)",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Narrow Grip Seated Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "One Arm Dumbbell Row",
+  "group": "Costas",
+  "equipment": "Halter",
+  "pattern": "Puxada Horizontal",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Parallel Grip Pull Up",
+  "group": "Costas",
+  "equipment": "Peso Corporal",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Reverse Barbell Shrug",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "trapezio_sup"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Reverse Grip Lat Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Reverse Wide Grip Seated Cable Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Seated Lever Machine One Arm Row",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Horizontal",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Seated Row Machine",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — adicionado jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Seated Row Machine (Reverse Grip)",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — adicionado jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Side-On Single Arm Lat Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Novo — adicionado jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Single Arm Cable Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Overhand Grip Bent Over Row",
+  "group": "Costas",
+  "equipment": "Smith",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Reverse Grip Bent Over Row",
+  "group": "Costas",
+  "equipment": "Smith",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Standing Bent Over Cable Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Standing Bent Over Narrow Reverse Grip Cable Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Standing Bent Over Wide Reverse Grip Cable Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Standing Cable Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Standing Cable Pullover",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Standing Rope Pull to the Neck",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post",
+    "costas_media"
+   ],
+   "secondary": [
+    "trapezio_sup"
+   ]
+  }
+ },
+ {
+  "name": "Standing Rope Pullover",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Straight Arm Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Universal Lat Pulldown Machine",
+  "group": "Costas",
+  "equipment": "Máquina",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "V Bar Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Wide Bent Over Low Cable Row (Overhand Grip)",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Wide Grip Chest to Bar Pull Ups",
+  "group": "Costas",
+  "equipment": "Peso Corporal",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Wide Grip Incline T-Bar Row",
+  "group": "Costas",
+  "equipment": "Barra",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Wide Grip Lat Pulldown",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Academia recebeu kit de puxadores anatômicos (estilo: peças com pegadas variadas — semi-supinada, neutra, semi-pronada). Neste exercício, usando o puxador maior/largo do kit.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Wide Grip Pulldown with Parallel Grip",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Wide Grip Row",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Wide Grip Seated Cable Row (Parallel Grip)",
+  "group": "Costas",
+  "equipment": "Cabo",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Barbell Good Morning",
+  "group": "Glúteos",
+  "equipment": "Barra",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior",
+    "lombar"
+   ],
+   "secondary": [
+    "gluteo"
+   ]
+  }
+ },
+ {
+  "name": "Barbell Hyperextension",
+  "group": "Glúteos",
+  "equipment": "Barra",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar"
+   ],
+   "secondary": [
+    "gluteo",
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Barbell Sumo Squats",
+  "group": "Glúteos",
+  "equipment": "Barra",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "adutores"
+   ],
+   "secondary": [
+    "quadriceps"
+   ]
+  }
+ },
+ {
+  "name": "Bench Glute Bridge with Bar",
+  "group": "Glúteos",
+  "equipment": "Barra",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — identificado no app jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Bulgarian Split Squat",
+  "group": "Glúteos",
+  "equipment": "Halter",
+  "pattern": "Unilateral Perna",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Deadlift",
+  "group": "Glúteos",
+  "equipment": "Barra",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "posterior"
+   ],
+   "secondary": [
+    "lombar",
+    "quadriceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Dumbbell Deadlift (Glute + Inner Thigh Focus)",
+  "group": "Glúteos",
+  "equipment": "Halter",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "adutores"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Dumbbell Squat",
+  "group": "Glúteos",
+  "equipment": "Halter",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Glute Bridge on a Machine",
+  "group": "Glúteos",
+  "equipment": "Máquina",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo"
+   ],
+   "secondary": [
+    "posterior"
+   ]
+  }
+ },
+ {
+  "name": "Glutes Hyperextension",
+  "group": "Glúteos",
+  "equipment": "Peso Corporal",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo"
+   ],
+   "secondary": [
+    "posterior",
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Leaning Forward Leg Abduction (Machine)",
+  "group": "Glúteos",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo_medio"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Leg Abduction (Machine)",
+  "group": "Glúteos",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo_medio"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Plie",
+  "group": "Glúteos",
+  "equipment": "Halter",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "adutores"
+   ],
+   "secondary": [
+    "quadriceps"
+   ]
+  }
+ },
+ {
+  "name": "Seated Machine Back Extensions",
+  "group": "Glúteos",
+  "equipment": "Máquina",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Lombar direta",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "lombar"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Leg Dumbbell Deadlift",
+  "group": "Glúteos",
+  "equipment": "Halter",
+  "pattern": "Hinge",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior",
+    "gluteo"
+   ],
+   "secondary": [
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Plie Squats",
+  "group": "Glúteos",
+  "equipment": "Smith",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "adutores"
+   ],
+   "secondary": [
+    "quadriceps"
+   ]
+  }
+ },
+ {
+  "name": "Alternating Front Dumbbell Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Arnold Press",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Press Vertical",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_lat"
+   ]
+  }
+ },
+ {
+  "name": "Barbell Front Raise",
+  "group": "Ombros",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Barbell High Pull",
+  "group": "Ombros",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": [
+    "trapezio_sup"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Barbell Row",
+  "group": "Ombros",
+  "equipment": "Barra",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Dumbbell Lateral Raise (Horizontal Grip)",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Dumbbell Lateral Raise (Parallel Grip)",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Straight Arm Lat Pull Down with Dumbbells",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "dorsal"
+   ],
+   "secondary": [
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Cable Bent Over One Arm Lateral Raise",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Cable Front Raise",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Cable Rope Chest Pull",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior — equivalente ao face pull",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media",
+    "manguito"
+   ]
+  }
+ },
+ {
+  "name": "Cable Rope Front Raise",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Crossed Cable Rear Delt Fly",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Dumbbell Front Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Dumbbell Upright Row",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": [
+    "trapezio_sup"
+   ]
+  }
+ },
+ {
+  "name": "Incline Bench Reverse Front Raise (Dumbbells)",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Incline Dumbbell Rear Delt Fly",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Incline Prone Dumbbell Row",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Incline Reverse Dumbbell Rear Delt Fly",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Lever Seated Reverse Fly (Reverse Grip)",
+  "group": "Ombros",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Machine Rear Delt Seated Fly",
+  "group": "Ombros",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Deltoide posterior",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_post"
+   ],
+   "secondary": [
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Machine Shoulder Press",
+  "group": "Ombros",
+  "equipment": "Máquina",
+  "pattern": "Press Vertical",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_lat"
+   ]
+  }
+ },
+ {
+  "name": "One Arm Cable Front Raise",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "One Arm Cable Lateral Raise",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Deltoide lateral",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Seated Barbell Shoulder Press",
+  "group": "Ombros",
+  "equipment": "Barra",
+  "pattern": "Press Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_lat"
+   ]
+  }
+ },
+ {
+  "name": "Seated Dumbbell Front Raise (Extended Arms)",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Seated Dumbbell Hammer Curl + Overhead Dumbbell Press",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Press Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant",
+    "braquial"
+   ],
+   "secondary": [
+    "triceps",
+    "biceps"
+   ]
+  }
+ },
+ {
+  "name": "Seated Dumbbell Lateral Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide lateral",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Seated Dumbbell Press",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Press Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_lat"
+   ]
+  }
+ },
+ {
+  "name": "Single Arm Incline Lateral Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Deltoide lateral",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm Standing Dumbbell Lateral Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "Deltoide lateral",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Smith Machine Bent Over Row",
+  "group": "Ombros",
+  "equipment": "Smith",
+  "pattern": "Puxada Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "costas_media",
+    "dorsal"
+   ],
+   "secondary": [
+    "biceps",
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Shoulder Press",
+  "group": "Ombros",
+  "equipment": "Smith",
+  "pattern": "Press Vertical",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_lat"
+   ]
+  }
+ },
+ {
+  "name": "Standing Dumbbell Front and Lateral Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat",
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Standing Dumbbell Lateral and Front Raise",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat",
+    "delt_ant"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Standing Dumbbell Lateral Raises",
+  "group": "Ombros",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Deltoide lateral",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Standing Shoulder External Rotation with Cable Row",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Manguito rotador",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "manguito"
+   ],
+   "secondary": [
+    "delt_post"
+   ]
+  }
+ },
+ {
+  "name": "Standing Shoulder Internal Rotation with Cable Row",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Manguito rotador",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "manguito"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Upright Cable Row",
+  "group": "Ombros",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_lat"
+   ],
+   "secondary": [
+    "trapezio_sup"
+   ]
+  }
+ },
+ {
+  "name": "30° Incline Dumbbell Bench Press",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Press Inclinado",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "30° Incline Dumbbell Fly",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "45° Incline Dumbbell Bench Press",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Press Inclinado",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "45° Incline Dumbbell Fly",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Cable Crossover",
+  "group": "Peito",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Chest Dips",
+  "group": "Peito",
+  "equipment": "Peso Corporal",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Chest to Floor Push-ups",
+  "group": "Peito",
+  "equipment": "Peso Corporal",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Close Grip Push-ups",
+  "group": "Peito",
+  "equipment": "Peso Corporal",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": [
+    "peito",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Decline Machine Chest Press",
+  "group": "Peito",
+  "equipment": "Máquina",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Dumbbell Pullover",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito",
+    "dorsal"
+   ],
+   "secondary": [
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Flat Bench Dumbbell Chest Press",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Flat Bench Dumbbell Fly",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Front Incline Dumbbell Raise",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "delt_ant"
+   ],
+   "secondary": [
+    "peito_sup"
+   ]
+  }
+ },
+ {
+  "name": "Hammer Strength Chest Bench Press",
+  "group": "Peito",
+  "equipment": "Máquina",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Horizontal Barbell Bench Press",
+  "group": "Peito",
+  "equipment": "Barra",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Horizontal Dumbbell Bench Pullover",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito",
+    "dorsal"
+   ],
+   "secondary": [
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Incline Barbell Bench Press",
+  "group": "Peito",
+  "equipment": "Barra",
+  "pattern": "Press Inclinado",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Incline Dumbbell Bench Press Twist",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Press Inclinado",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Low Cable Crossover",
+  "group": "Peito",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Lying Dumbbell Svend Press",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Lying Machine Chest Press",
+  "group": "Peito",
+  "equipment": "Máquina",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — adicionado jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Machine Incline Chest Press",
+  "group": "Peito",
+  "equipment": "Máquina",
+  "pattern": "Press Inclinado",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — identificado no app jul/2026",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Seated Pec Fly",
+  "group": "Peito",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm 30° Incline Dumbbell Bench Press",
+  "group": "Peito",
+  "equipment": "Halter",
+  "pattern": "Press Inclinado",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Single Arm Chest Fly on the Machine",
+  "group": "Peito",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Smith Machine Horizontal Bench Press",
+  "group": "Peito",
+  "equipment": "Smith",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": [
+    "triceps",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Incline Bench Press",
+  "group": "Peito",
+  "equipment": "Smith",
+  "pattern": "Press Inclinado",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito_sup"
+   ],
+   "secondary": [
+    "delt_ant",
+    "triceps"
+   ]
+  }
+ },
+ {
+  "name": "Standing Cable Crossover",
+  "group": "Peito",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "peito"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Barbell Deadlift",
+  "group": "Pernas",
+  "equipment": "Barra",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Lift obrigatório — manter em todos os blocos",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "posterior"
+   ],
+   "secondary": [
+    "lombar",
+    "quadriceps",
+    "costas_media"
+   ]
+  }
+ },
+ {
+  "name": "Forward Lunges",
+  "group": "Pernas",
+  "equipment": "Halter",
+  "pattern": "Unilateral Perna",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Front Barbell Squats",
+  "group": "Pernas",
+  "equipment": "Barra",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": [
+    "gluteo",
+    "abdomen"
+   ]
+  }
+ },
+ {
+  "name": "Goblet Squat",
+  "group": "Pernas",
+  "equipment": "Halter",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Hammer Strength Horizontal Calf Extensions",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Panturrilha",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "soleo"
+   ],
+   "secondary": [
+    "gastrocnemio"
+   ]
+  }
+ },
+ {
+  "name": "Inner Adductor Workout",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "adutores"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Lateral Lunges",
+  "group": "Pernas",
+  "equipment": "Halter",
+  "pattern": "Unilateral Perna",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "adutores",
+    "quadriceps"
+   ],
+   "secondary": [
+    "gluteo"
+   ]
+  }
+ },
+ {
+  "name": "Narrow Stance Leg Press",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": [
+    "gluteo"
+   ]
+  }
+ },
+ {
+  "name": "Seated Calf Raises",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Panturrilha — sóleo",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "soleo"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Seated Leg Curls",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Seated Leg Extensions",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Seated Leg Press",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Seated Single Leg Extensions",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Leg Lying Curl",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Leg Press",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Unilateral Perna",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Lunges",
+  "group": "Pernas",
+  "equipment": "Smith",
+  "pattern": "Unilateral Perna",
+  "unilateral": true,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Squats",
+  "group": "Pernas",
+  "equipment": "Smith",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Smith Machine Standing Calf Raise",
+  "group": "Pernas",
+  "equipment": "Smith",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Novo — jul/2026. Panturrilha JOELHO ESTENDIDO = gastrocnêmio. Resolve a lacuna do bloco anterior.",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gastrocnemio"
+   ],
+   "secondary": [
+    "soleo"
+   ]
+  }
+ },
+ {
+  "name": "Standing Leg Curls",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "posterior"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Sumo Deadlift",
+  "group": "Pernas",
+  "equipment": "Barra",
+  "pattern": "Hinge",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "quadriceps",
+    "adutores"
+   ],
+   "secondary": [
+    "posterior",
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Toe Press on the Leg Press",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Panturrilha no leg press — nome corrigido (era \"Top Press\")",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gastrocnemio"
+   ],
+   "secondary": [
+    "soleo"
+   ]
+  }
+ },
+ {
+  "name": "Wide Stance Barbell Squats",
+  "group": "Pernas",
+  "equipment": "Barra",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Lift obrigatório — manter em todos os blocos",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "quadriceps",
+    "gluteo"
+   ],
+   "secondary": [
+    "adutores",
+    "lombar"
+   ]
+  }
+ },
+ {
+  "name": "Wide Stance Leg Press",
+  "group": "Pernas",
+  "equipment": "Máquina",
+  "pattern": "Agachamento",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "gluteo",
+    "quadriceps"
+   ],
+   "secondary": [
+    "adutores"
+   ]
+  }
+ },
+ {
+  "name": "Bent Over Rope Triceps Extensions",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Cable Bent Over Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Cable Lying Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Cable One Arm Reverse Grip Tricep Pushdown",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Cable Rope Overhead Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Cabeça longa",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Dumbbell Seated Overhead Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "Cabeça longa",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Dumbbell Seated Single Arm Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Incline Barbell Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Lying Cable Rope Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Lying Dumbbell Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Lying One Arm Dumbbell Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Halter",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Machine Triceps Dips",
+  "group": "Tríceps",
+  "equipment": "Máquina",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": [
+    "peito",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Narrow Grip Barbell Bench Press",
+  "group": "Tríceps",
+  "equipment": "Barra",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": [
+    "peito",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Overhead Cable Triceps Extension",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "Cabeça longa",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Parallel Bar Triceps Dips",
+  "group": "Tríceps",
+  "equipment": "Peso Corporal",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": [
+    "peito",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Reverse Grip Triceps Pushdown",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [
+   "Mai-Jul"
+  ],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Single Arm Triceps Cable Pushdown",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": true,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Smith Machine Close Grip Bench Press",
+  "group": "Tríceps",
+  "equipment": "Smith",
+  "pattern": "Press Horizontal",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": [
+    "peito",
+    "delt_ant"
+   ]
+  }
+ },
+ {
+  "name": "Triceps Pushdown",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Triceps Pushdown (Rope Attachment)",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "V Handle Triceps Pushdown",
+  "group": "Tríceps",
+  "equipment": "Cabo",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "",
+  "vetoed": false,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ },
+ {
+  "name": "Lying Triceps Extension with a Barbell",
+  "group": "Tríceps",
+  "equipment": "Barra",
+  "pattern": "Isolador",
+  "unilateral": false,
+  "blocks": [],
+  "notes": "VETADO PERMANENTEMENTE (jul/2026). Machuca o cotovelo direito. Nunca programar em nenhum bloco.",
+  "vetoed": true,
+  "muscles": {
+   "primary": [
+    "triceps"
+   ],
+   "secondary": []
+  }
+ }
+]

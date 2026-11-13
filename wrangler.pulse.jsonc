@@ -1,0 +1,15 @@
+// Worker "pulse" (Fase 6: endereço novo). Mesmo repositório, mesmo build (`npm run ci`), outro arquivo de configuração:
+// no Cloudflare, o Worker "pulse" usa o comando de deploy `npx wrangler deploy --config wrangler.pulse.jsonc`
+// (docs/PASSO-A-PASSO.md, Etapa 6). Não tem banco nem KV próprios: repassa /api/* ao "app-treino" (worker/pulse.js).
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pulse",
+  "main": "worker/pulse.js",
+  "compatibility_date": "2026-09-01",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS"
+  },
+  "services": [{ "binding": "TREINO", "service": "app-treino" }],
+  "observability": { "enabled": true }
+}
