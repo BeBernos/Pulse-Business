@@ -46,6 +46,13 @@ async function boot() {
     setLang(saved);
   }
 
+  // demonstração pública (build com VITE_DEMO=1): atleta fictício, sem conta nem servidor
+  if (import.meta.env.VITE_DEMO) {
+    const demo = await import("./demo");
+    await demo.seedDemo();
+    demo.seloDemo();
+  }
+
   let failed: MigrationError | null = null;
   if (name === LOCAL_DB) {
     try {
@@ -80,7 +87,8 @@ async function boot() {
   import("./push").then((m) => m.syncReminders()).catch(() => undefined);
 
   // sem conta: aparelho novo (ou que já saiu da conta) → entrar; com dados do app antigo → app + "Ativar o Pulse"
-  const gate = !failed && !account && (wasActivated() || !(await hasUserData()));
+  const gate = !import.meta.env.VITE_DEMO && !failed && !account && (wasActivated() || !(await hasUserData()));
+  if (import.meta.env.VITE_DEMO) markSeenIfNew();
   if (gate) markSeenIfNew();
   createRoot(document.getElementById("root")!).render(
     <StrictMode>

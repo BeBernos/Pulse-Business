@@ -1,144 +1,113 @@
-<p align="center"><img src="public/icon.svg" width="96" alt="Pulse logo"></p>
-
-<h1 align="center">Pulse</h1>
-<p align="center"><b>Strength training that follows the program — offline first, synced everywhere, with its own animated coach.</b></p>
+<p align="center"><img src="docs/images/capa.png" alt="Pulse — strength training" width="100%"></p>
 
 <p align="center">
-  <a href="README.pt-BR.md">🇧🇷 Leia em português</a> ·
-  <a href="#demo">Demo</a> ·
-  <a href="#architecture">Architecture</a> ·
-  <a href="#commercial-use">Commercial use</a>
+  <a href="https://bebernos.github.io/Pulse-Business/"><b>▶ Live demo</b></a> ·
+  <a href="README.pt-BR.md">Leia em português</a> ·
+  <a href="#how-it-works">Architecture</a> ·
+  <a href="SECURITY.md">Security</a> ·
+  <a href="docs/case-study.md">Case study</a>
 </p>
 
 <p align="center">
-  <img alt="React 19" src="https://img.shields.io/badge/React-19-149ECA">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178C6">
-  <img alt="Tests" src="https://img.shields.io/badge/tests-506%20passing-4263EB">
-  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare-Workers%20%C2%B7%20D1%20%C2%B7%20KV-F38020">
-  <img alt="i18n" src="https://img.shields.io/badge/UI-EN%20%7C%20PT--BR-7E1C55">
-  <img alt="License" src="https://img.shields.io/badge/license-source--available-555">
+  <img alt="CI" src="https://github.com/BeBernos/Pulse-Business/actions/workflows/ci.yml/badge.svg">
+  <img alt="Live demo" src="https://github.com/BeBernos/Pulse-Business/actions/workflows/pages.yml/badge.svg">
 </p>
 
----
+# Pulse
 
-Pulse is a progressive web app for people who train with a structured program. The program (blocks, weeks, deloads,
-supersets, warm-ups, cardio and mobility) is written by an AI assistant from a documented JSON contract; the app turns it
-into today's workout, logs every set, explains every exercise with its own 2D/3D animation, and sends the results back to
-the assistant to plan the next block.
+**Pulse is a strength-training app (PWA) that turns a structured program into today's workout, logs every set, explains
+every exercise with its own 2D/3D animation, and hands the results back to an AI coach (Claude) to build the next block.**
 
-> All data in this repository and in the images is fictitious (demo account: Rafael).
+It was built for a real athlete and is used at the gym every training day: 24 releases, two accounts in the household,
+programs of 13 weeks with deloads and supersets, and an offline-first design that never loses a set — even with no
+signal in the gym's basement.
 
-## Demo
-
-<p align="center"><img src="docs/images/demo.gif" width="300" alt="Pulse demo: start today's workout, complete sets, progress and body"></p>
-
-| Home | Program | Live workout | Exercise in 3D |
-|---|---|---|---|
-| <img src="docs/images/01-inicio.png" width="200"> | <img src="docs/images/02-treinos.png" width="200"> | <img src="docs/images/03-treino.png" width="200"> | <img src="docs/images/04-exercicio-3d.png" width="200"> |
-
-| Progress | Body composition | Analyze with AI | Settings |
-|---|---|---|---|
-| <img src="docs/images/05-progresso.png" width="200"> | <img src="docs/images/06-corpo.png" width="200"> | <img src="docs/images/07-claude.png" width="200"> | <img src="docs/images/08-ajustes.png" width="200"> |
-
-**Desktop** — side menu, list and detail side by side:
-
-<img src="docs/images/09-computador.png" alt="Pulse on desktop">
+> The live demo runs with a **fictitious athlete** (Rafael) in week 4 of a 13-week block, generated in your browser with
+> dates that always move with today's calendar. No account, no server — nothing leaves your browser.
 
 ## What it does
 
-**Training**
-- Today's workout from the active program (weekly split or rotation), with the prescription of the current week:
-  sets, reps, RIR, rest, deload, supersets (A1/A2), warm-up, cardio targets and mobility blocks.
-- Live workout: rest timer, "same as last time", plate math for the gym's plates, list or one-big-set mode, swap an
-  exercise for a suggested substitute, notes, pain markers, instant personal records (estimated 1RM).
-- A live notification with the rest ring, current exercise and "set done" / "+15 s" buttons while the phone is locked.
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img src="docs/images/01-inicio.png" width="200"><br>**Today's workout & muscles** | <img src="docs/images/03-treino.png" width="200"><br>**Live workout, set by set** | <img src="docs/images/04-exercicio-3d.png" width="200"><br>**Every exercise in 3D** | <img src="docs/images/02-treinos.png" width="200"><br>**The program, week by week** |
+| <img src="docs/images/05-progresso.png" width="200"><br>**Calendar & adherence** | <img src="docs/images/06-corpo.png" width="200"><br>**Body composition** | <img src="docs/images/07-claude.png" width="200"><br>**Analyze with AI** | <img src="docs/images/08-ajustes.png" width="200"><br>**Accounts & settings** |
 
-**Exercise library**
-- 300+ exercises (strength, mobility, cardio, Pilates, functional) with how-to text in English and Portuguese.
-- **Hand-made animations, no third-party media:** a 2D articulated figure (two-bone inverse kinematics, keyframed
-  repetition cycles, muscles highlighted) and a **3D** view (three.js) generated from the same motion data, with
-  orbit, zoom and camera presets.
+<p align="center"><img src="docs/images/demo.gif" width="300" alt="Pulse: start today's workout, complete sets, a personal record, progress and body"><br>
+<i>Start today's workout, tick the sets — a personal record pops up on the spot — then progress and body.</i></p>
 
-**Progress & body**
-- Calendar (done / missed / skipped with reason), weekly adherence, streaks, real volume per muscle against targets,
-  block-vs-block comparison, load history per exercise.
-- Body: weight with 7-day moving average, measurements on a body map, body-fat estimate (Navy / RFM), lean mass, FFMI,
-  progress photos synced to the server.
+- **Training** — the week's prescription (sets, reps, RIR, rest, deload, supersets A1/A2, warm-up, cardio targets,
+  mobility), a rest timer, "same as last time", plate math for the gym's plates, list mode or one-big-set mode, exercise
+  swaps with suggested substitutes, instant personal records (estimated 1RM).
+- **A notification that coaches** — while the phone is locked, the live workout shows the rest ring, the current exercise
+  and "set done" / "+15 s" buttons.
+- **The exercise library** — 300+ exercises (strength, mobility, cardio, Pilates, functional) with how-to text in English
+  and Portuguese and **hand-made animations**: a 2D articulated figure and a 3D view generated from the same motion data.
+- **Progress & body** — calendar (done / missed / skipped with reason), weekly adherence, real volume per muscle against
+  targets, block-vs-block comparison, load history, weight with a 7-day average, measurements on a body map, body-fat
+  estimate (Navy / RFM), lean mass, FFMI, progress photos.
+- **AI where it adds judgment** — a structured training report goes to Claude; an **MCP connector** lets the user's own
+  Claude read the context and publish the next program after validation and the user's approval. No paid API.
 
-**AI in the loop, without a paid API**
-- "Analyze with Claude": shares a structured training report and stores the pasted analysis.
-- An **MCP connector** lets the user's own Claude read the training context and publish the next program after
-  validation and the user's approval.
+## How it works
 
-**Accounts & household**
-- Private accounts per person, invitations, passkeys (fingerprint), sign-in with a 6-letter code from another device.
-- Offline-first sync of every table, trash with restore, automatic data-safe migration from the previous app version.
-- Private bridge to [Mesa](https://github.com/BeBernos/Mesa-Business) (family nutrition): one official body weight,
-  "did you train today?", cardio calories and the training schedule.
+<p align="center"><img src="docs/images/architecture-en.svg" alt="Architecture diagram" width="100%"></p>
 
-## Architecture
+The unusual part: **the exercise animations are generated, not filmed.** A small motion engine
+([`src/lib/motion/`](src/lib/motion)) describes each movement family (bench, barbell, cable, machine, unilateral,
+alternating) with parameters and key poses, solves the limbs with two-bone inverse kinematics and draws a 2D figure with
+the target muscles highlighted. The 3D view ([`src/lib/motion3d/`](src/lib/motion3d), three.js, loaded on demand) converts
+the same frames into bone directions and skins a smooth body whose muscles are painted by a shader. One table maps the
+300+ exercises to their motion; a test makes sure no exercise is left without one.
 
-```mermaid
-flowchart LR
-  subgraph Device["Phone / desktop (PWA)"]
-    UI["React 19 + TypeScript<br/>Vite · Workbox SW"]
-    IDB[("IndexedDB (Dexie)<br/>one DB per person")]
-    UI --- IDB
-  end
-  subgraph CF["Cloudflare Workers"]
-    W["app-treino Worker<br/>auth · sync · photos · push · MCP"]
-    D1[("D1 (SQLite)<br/>accounts · records · trash")]
-    KV[("KV<br/>push schedule · VAPID")]
-    P["pulse Worker<br/>(new address, proxies /api)"]
-  end
-  Claude["Claude (user's subscription)"]
-  Mesa["Mesa Worker<br/>(nutrition)"]
-  UI <-->|"/api/sync (batches {t,k,u,v})"| W
-  P -->|service binding| W
-  W --- D1
-  W --- KV
-  Claude <-->|MCP| W
-  W <-->|service binding| Mesa
-```
+Data is **offline-first**: every person has their own IndexedDB; a Dexie middleware stamps every write and leaves a
+tombstone on delete, and the Worker syncs batches of `{t, k, u, v}` records (highest timestamp wins) into D1, with a
+3-day trash that can restore a deleted workout with all its sets.
 
-- **Client:** React 19 + TypeScript + Vite, hash router, no CSS framework (design tokens). Dexie middleware stamps every
-  write and leaves tombstones on delete, so sync is "highest timestamp wins" per record.
-- **Plan contract:** validated with Zod ([`docs/FORMATO-PLANO.md`](docs/FORMATO-PLANO.md)); analysis format in
-  [`docs/FORMATO-ANALISE.md`](docs/FORMATO-ANALISE.md).
-- **Server:** Cloudflare Workers on the free plan (≈10 ms CPU per request): password hashing is derived on the device,
-  WebAuthn verified with SimpleWebAuthn, reminders computed on the device and fired by a cron.
-- **i18n:** English and Portuguese per account; everything sent to the AI stays in Portuguese by design.
+## Security
 
-## Quality
+Passwords never leave the device: the app derives a key with PBKDF2-SHA256 (600k iterations) and the server stores only a
+hash of it. Sessions live in `HttpOnly; Secure; SameSite=Strict` cookies, passkeys (WebAuthn) are verified with
+SimpleWebAuthn, and every row in D1 carries the owner's `user_id`. Details in [SECURITY.md](SECURITY.md).
 
-- **506 tests** (Vitest): pure training logic (calendar, prescription, plates, analytics, body), plan schema, i18n
-  coverage, motion data for every exercise, the Worker against an in-memory D1 on `node:sqlite`, and IndexedDB with
-  `fake-indexeddb`.
-- End-to-end script with Playwright and a virtual authenticator: migration, account activation, passkey, invite,
-  two-device sync including offline.
-- `npm run ci` (tests + production build) is the build command used for deployment.
+## Engineering highlights
 
-## Run it locally
+- **506 tests** (Vitest): calendar, prescription, plates, analytics, body composition, the plan schema, translation
+  coverage, motion data for every exercise, the Worker against a D1 on `node:sqlite`, and IndexedDB with `fake-indexeddb`.
+- **Data never gets lost** — local format changes are copy-and-verify migrations, never in-place rewrites; the previous
+  app's database is migrated and checked, never altered.
+- **Serverless on the free tier** (~10 ms CPU per request) — heavy work (password derivation, reminder scheduling) runs on
+  the device; the Worker only verifies, stores and fires.
+- **Two languages per account** (EN/PT), with everything sent to the AI kept in Portuguese by design.
+- **Gestures without libraries** — long-press to reorder, swipe to delete with undo, all with keyboard and screen-reader
+  equivalents.
 
-```bash
-npm install
-npm run dev            # app only, http://localhost:5173
-npm test               # 506 tests
-npm run build          # dist/
-npx wrangler dev --local --var PULSO_SETUP:choose-a-setup-code   # app + API on http://localhost:8787
-```
+## Tech stack
 
-## Commercial use
+React 19 · TypeScript · Vite · Dexie (IndexedDB) · Zod · three.js · Workbox · SimpleWebAuthn · Cloudflare Workers · D1 · KV ·
+Cron Triggers · Web Push · Model Context Protocol (MCP) · Claude · Vitest · Playwright
 
-This repository is **source-available, not open source**: you may read and evaluate the code, but production or commercial
-use requires a license. Licenses are available for **white-label deployments** (gyms, personal trainers, coaching
-platforms, corporate wellness) and custom development — including the exercise animation engine. See [LICENSE](LICENSE)
-and get in touch through [github.com/BeBernos](https://github.com/BeBernos).
+## Read more
 
-## Part of a suite
+- [Case study](docs/case-study.md) — the problem, the decisions and what came out of them.
+- [Security](SECURITY.md) — threat model and how each layer works.
+- [Plan format](docs/FORMATO-PLANO.md) and [analysis format](docs/FORMATO-ANALISE.md) — the contracts with the AI (Portuguese).
+
+## The suite
 
 | | |
 |---|---|
+| [**Lastro**](https://github.com/BeBernos/Lastro-Business) | Family finance hub — cash flow, credit card and investments, encrypted end to end |
 | [**Mesa**](https://github.com/BeBernos/Mesa-Business) | Family nutrition plan, planned by AI |
 | **Pulse** | Strength training (this repository) |
-| [**Cesta**](https://github.com/BeBernos/Cesta-Business) | Grocery price research and comparison across stores |
+| [**Cesta**](https://github.com/BeBernos/Cesta-Business) | Grocery price research, shopping route and receipt audit |
+
+## About
+
+Designed and built by **Bruno Bernos** — product, UX and engineering — working with Claude Code as a pair programmer.
+Contact: [github.com/BeBernos](https://github.com/BeBernos).
+
+## License
+
+Copyright © 2026 Bruno Bernos. **All rights reserved.** The source is published for evaluation only; no permission is
+granted to use, copy, modify or distribute it. Commercial licenses (gyms, personal trainers, coaching platforms, and the
+exercise animation engine on its own) are available — see [LICENSE](LICENSE) and get in touch.

@@ -7,3 +7,4 @@ dev-dist/
 .wrangler/
 .dev.vars
 e2e-prints/
+_site/

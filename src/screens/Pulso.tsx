@@ -145,7 +145,7 @@ export function SyncBanner() {
         <Sheet open={rescueOpen} onClose={() => setRescueOpen(false)}><DataRescue /></Sheet>
       </>
     );
-  if (!account)
+  if (!account && !import.meta.env.VITE_DEMO)
     return (
       <a className="alert info small" href={href("pulso")} style={{ marginBottom: 12, textDecoration: "none", color: "inherit" }}>
         <Icon name="bolt" size={16} />
